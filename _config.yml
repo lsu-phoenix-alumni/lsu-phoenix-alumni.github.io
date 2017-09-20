@@ -1,0 +1,28 @@
+# Build settings
+markdown: kramdown
+baseurl: ""
+# your site URL goes here
+# url: ""
+
+port: 4000
+exclude:
+  - README.md
+  
+# styles
+sass:
+  style: compressed
+
+# collections other than posts
+collections:
+  announcements:
+    output: false
+  events:
+    output: true
+    
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# How many posts to show per page
+paginate: 5

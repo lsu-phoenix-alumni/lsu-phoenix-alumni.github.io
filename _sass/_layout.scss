@@ -1,0 +1,11 @@
+.line {
+  height: 2px;
+  top: 50%;
+  left: $md;
+  right: $md;
+}
+
+.bg-purple-70 { background-color: rgba(70, 29, 124, 0.7); }
+.bg-purple-90 { background-color: rgba(70, 29, 124, 0.9); }
+.b--purple-70 { border-color: rgba(70, 29, 124, 0.7); }
+.b--purple-focus:focus { border-color: $purple; }

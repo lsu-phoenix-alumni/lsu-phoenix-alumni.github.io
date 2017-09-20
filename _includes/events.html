@@ -1,0 +1,17 @@
+<section class="pa3 mw9 center">
+  <h2 class="f3 fw6 mt0 w-100 pa2 pa3-ns ttu tracked bb b--black-10">Events</h2>
+  
+  <div class="flex flex-wrap">
+  {% assign events = site.events | sort:'date' %}
+  {% for post in events %}  
+    <article class="w-100 w-50-m w-third-l mb3 pa2 pb3 pa3-ns {% if forloop.last == false %} bb b--black-10 bn-ns{% endif %}">
+      <h3 class="f4 lh-title mv0">{{ post.title }}</h3>
+      <small class="f6 silver dib mb1">{{ post.date | date_to_string }} {% if  post.venue.name %}at {{ post.venue.name }}{% endif %}</small>
+      <div class="lh-copy fw3">
+        {{ post.excerpt }}
+        <a class="link" href="{{ post.url | prepend: site.baseurl }}">More...</a>
+      </div>
+    </article>
+  {% endfor %}
+  </div>
+</section>

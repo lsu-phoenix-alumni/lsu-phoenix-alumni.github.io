@@ -1,0 +1,30 @@
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+*, *:before, *:after { box-sizing: inherit; }
+
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+p { margin: 0; }
+
+a {
+  color: $link-color;
+  text-decoration: none;
+}
+
+ul, ol {
+  margin-left: $md;
+}
+
+li {
+  > ul,
+  > ol {
+    margin-bottom: 0;
+  }
+}

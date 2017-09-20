@@ -1,0 +1,26 @@
+---
+layout: page
+title: Board
+permalink: /board/
+navEnabled: true
+order: 5
+---
+
+<section class="cf">
+  {% for member in site.data.board.members %}
+  <article class="w-100 w-50-m w-25-l fl bg-white pa3">
+    <div class="ba b--black-10 br2 pa3 pa4-ns">
+      <div class="tc">
+        <span class="br-100 h4 w4 dib ba b--black-10 pa2 mb2">
+          <span class="w-100 h-100 br-100 dib cover bg-center" style="background-image: url({{ member.image | prepend: site.baseurl }})"></span>
+        </span>
+        <h1 class="f3 mb3">{{ member.firstName }} {{ member.lastName }}</h1>
+        {% for title in member.titles %}
+        <h2 class="f5 fw4 gray mt0 dib ph2">{{ title }}</h2>
+        {% endfor %}
+        <a href="mailto:{{ member.email }}" class="link fw6 db pv2">Email {{ member.firstName }}</a>
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</section>

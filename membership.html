@@ -1,0 +1,116 @@
+---
+layout: page
+title: Membership
+permalink: /membership/
+navEnabled: true
+order: 2
+---
+<section class="measure-wide">    
+  <h1 class="f6 f5-ns fw6 ttu tracked mt3 mb1 pv2">Chapter Photos:</h1>
+
+  <p class="lh-copy mb4">
+    We have all our event photos posted online for your viewing at 
+    <a href="www.lsuphoenix.shutterfly.com" class="link" target="_blank">www.lsuphoenix.shutterfly.com</a>. 
+    You may order pictures directly from this website.
+  </p>
+
+  <h1 class="f6 f5-ns fw6 ttu tracked mt3 mb1 pv2">Membership/Dues:</h1>
+
+  <p class="lh-copy mb4">
+    Whether you are an LSU Alumni or just bleed purple and gold, 
+    we hope that you'll become an active part of our chapter and 
+    consider supporting our events with your annual dues. 
+    Our current prorated dues schedule is as follows:
+    
+    <table class="collapse ba b--black-20 pv2 w-100 mb4">
+      <tbody>
+        <tr class="striped--light-gray f6 fw6 ttu">
+          <th class="tl ph3 pv2 br b--black-05">Plan</th>
+          <th class="tl pv2 ph3">Cost</th>
+        </tr>
+        {% for due in site.data.membership.dues %}
+        <tr class="striped--light-gray">
+          <td class="pv2 ph3 br b--black-05">{{ due.plan }}</td>
+          <td class="pv2 ph3">{{ due.cost }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    
+  </p>
+
+  <h1 class="f6 f5-ns fw6 ttu tracked mt3 mb1 pv2">Membership Benefits:</h1>
+
+  <p class="lh-copy mb4">The Phoenix Chapter of the LSU Alumni Association strives to keep its alumni and fans connected.</p>
+
+  <ul class="lh-copy mb4 pl1">
+    <li>Our Board has a direct line of contact the LSU Alumni Association headquarters in Baton Rouge and is able to bring the latest in LSU news and information.</li>
+    <li>Our chapter communicates via email, e-newsletters, website and/or flyers on average once a month.</li>
+    <li>Our chapter members come from everywhere and range in age from young to old. We have fresh college graduates, 20- and 30-somethings, Baby Boomers and more. We have doctors, lawyers, architects, business owners, students, nurses, teachers… you name it, and we got it!</li>
+    <li>We host no less than a dozen activities a year – most of which are free to LSU alumni and fans.</li>
+    <li>Our chapter certainly gathers for most every major LSU sporting event, but we also meet socially for crawfish boils, wine tastings, BBQs, Diamondbacks games, and more!</li>
+    <li>And finally, in addition to all the fun and games, our chapter has our own scholarship program -- the Joel Monte West Club Scholarship -- which funds an Arizona high school student when they attend LSU.</li>
+  </ul>
+
+  <h1 class="f6 f5-ns fw6 ttu tracked mt3 mb1 pv2">How is the LSU Alumni Association able to do so much?</h1>
+  <p class="lh-copy mb4">
+    Because of people like you! All programs, projects and the entire budget 
+    for the Phoenix Chapter of the LSU Alumni Association are financed by your 
+    dues contributions – our mailing costs each year are over $500! And so we thank you in advance.
+    You can also pay online using the links below (please note that there is 
+    a $2 service charge for using the online payment system) or you can pay in 
+    person at an LSU Alumni event. In addition, our Chapter sends out flyers 
+    for each event with payment coupons -- so make sure you are on our mailing list!
+  </p>
+
+  <table class="collapse ba b--black-20 pv2 w-100 mb4">
+    <tbody>
+      <tr class="striped--light-gray">
+        <td class="pv2 ph3"><button class="button-reset bg-blue white pv1 ph2 br2 ba b--transparent f6 outline-0 dim pointer">Pay with PayPal</button></td>
+        <td class="pv2 ph3">2015 Half Year Individual Membership: $5.00</td>
+      </tr>
+      <tr class="striped--light-gray">
+        <td class="pv2 ph3"><button class="button-reset bg-blue white pv1 ph2 br2 ba b--transparent f6 outline-0 dim pointer">Pay with PayPal</button></td>
+        <td class="pv2 ph3">2015 Half Year Family Membership: $7.50</td>
+      </tr>
+      <tr class="striped--light-gray">
+        <td class="pv2 ph3"><button class="button-reset bg-blue white pv1 ph2 br2 ba b--transparent f6 outline-0 dim pointer">Pay with PayPal</button></td>
+        <td class="pv2 ph3">2015/2016 Full Year Individual Membership: $10.00</td>
+      </tr>
+      <tr class="striped--light-gray">
+        <td class="pv2 ph3"><button class="button-reset bg-blue white pv1 ph2 br2 ba b--transparent f6 outline-0 dim pointer">Pay with PayPal</button></td>
+        <td class="pv2 ph3">2015/2016 Full Year Family Membership: $15.00</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <h1 class="f6 f5-ns fw6 ttu tracked mt3 mb1 pv2">Newsletters/Email:</h1>
+  <p class="lh-copy mb4">
+    Throughout the year, our chapter sends out member updates via mail 
+    and email regarding special events and announcements. We hope that 
+    you'll take a moment to join our distribution list by simply inputting 
+    your email in the box below. If yours is a new email address in our 
+    system, you will be prompted to complete our registration form which 
+    requests your mailing address and other information. If you are already 
+    subscribed and want to update your profile with new information, just 
+    enter your email address, select "Join", and you will be prompted 
+    with instructions on how to make that update.
+  </p>
+  
+  <form class="bg-light-gray w-100 mv3 center pa3 pa4-ns br2-ns ba b--black-10">
+    <fieldset class="cf bn ma0 pa0">
+      <legend class="pa0 f5 f4-ns mb3 black-80">Join our email list</legend>
+      <div class="cf">
+        <input class="f6 f5-l outline-0 input-reset fl black-80 ba br-0-ns b--purple-70 b--purple-focus bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns mb2 mb0-ns" placeholder="Your Email Address" type="text" name="Email_Adress" value="" id="Email_Adress">
+        <input class="f6 f5-l outline-0 button-reset fl pv3 tc ba b--transparent bg-animate bg-purple-70 hover-bg-purple white pointer w-100 w-25-m w-20-l br2-ns br--right-ns" type="submit" value="Join">
+      </div>
+    </fieldset>
+  </form>
+  
+  <p class="lh-copy mb4">
+    If you need to contact the national headquarters of the LSU Alumni 
+    Association in Baton Rouge, Lousisiana, please 
+    <a href="http://www.lsualumni.org/about/contact.htm" target="_blank" class="link">visit their website</a> 
+    for the most current contact information.
+  </p>
+</section>

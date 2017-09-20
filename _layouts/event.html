@@ -1,0 +1,49 @@
+---
+layout: default
+---
+<header class="pv3 pv4-l bg-near-white bb b--black-10 mb3-ns">
+  <h2 class="f3 f2-l ph3 ph4-ns fw6 mv0 lh-title ttu tracked purple mw9 center">{{ page.title }}</h2>
+</header>
+
+<div class="cf mw9 center pa3 ph4-ns">
+  <article class="cf measure-wide fl mb3 lh-copy">
+    {{ content }}
+  </article>
+  
+  <aside class="fl pl4-ns db">
+    <h3 class="f6 ttu tracked mv3 mt0-ns">Location:</h3>
+    
+    {% if page.venue %}
+      <article class="bg-white center ba b--black-10">
+        {% if page.venue.name %}
+          <div class="pv2 ph3 bb b--black-10">
+             <h1 class="f6 ttu tracked">{{ page.venue.name }}</h1>
+          </div>
+        {% endif %}
+        
+        <div class="pa3">
+          {% if page.venue.address %}
+          <p class="mb2 lh-copy">
+            {{ page.venue.address }}
+          </p>
+          {% endif %}
+          
+          {% if page.venue.phone %}
+          <div class="pv2">
+            <span class="blue w1 dib mr2">{% include _icons/phone.html %}</span>
+            <a class="link dib" href="tel:{{ page.venue.phone }}">{{ page.venue.phone }}</a>
+          </div>
+          {% endif %}
+          
+          {% if page.venue.locationUrl %}
+          <div class="pv2">
+            <span class="blue w1 dib mr2">{% include _icons/map_marker.html %}</span>
+            <a class="link dib" target="_blank" href="{{ page.venue.locationUrl }}">Get Directions</a>
+          </div>
+          {% endif %}
+          
+        </div>
+      </article>
+    {% endif %}
+  </aside>
+</div>

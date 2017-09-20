@@ -1,0 +1,20 @@
+---
+layout: page
+title: Events
+permalink: /events/
+navEnabled: true
+order: 1
+---
+
+<section class="measure-wide">
+  {% assign events = site.events | sort:'date' %}
+  {% for post in events %}    
+    <article class="mb3">
+      <h3 class="f4 lh-title mv0"><a class="link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>
+      <small class="f6 silver dib mb1">{{ post.date | date_to_string }} {% if  post.venue.name %}at {{ post.venue.name }}{% endif %}</small>
+      <div class="lh-copy fw3">
+        {{ post.excerpt }}
+      </div>
+    </article>
+  {% endfor %}
+</section
