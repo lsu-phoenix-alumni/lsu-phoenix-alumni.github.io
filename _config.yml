@@ -1,6 +1,6 @@
 # Build settings
 markdown: kramdown
-baseurl: "/website"
+baseurl: "/"
 # your site URL goes here
 # url: ""
 
