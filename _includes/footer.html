@@ -6,5 +6,10 @@
     </a>
     {% endif %}
   </div>
-  <small class="f6 db tc">© 2016 <b class="ttu">LSU Phoenix Alumni Association</b>, All Rights Reserved</small>
+  <small class="f6 db tc">© <span id="copyright-year"></span> <b class="ttu">LSU Phoenix Alumni Association</b>, All Rights Reserved</small>
 </footer>
+
+<script type="text/javascript">
+  // always set copyright year to current year
+  document.getElementById('copyright-year').innerHTML = new Date().getFullYear()
+</script>
