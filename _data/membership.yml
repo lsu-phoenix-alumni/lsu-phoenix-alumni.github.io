@@ -1,10 +1,10 @@
 # Membership data
 dues:
-  - plan: 2015 Half Year Individual Dues (Jan - July)
+  - plan: Half Year Individual Dues (Jan - July)
     cost: $5.00
-  - plan: 2015 Half Year Family Dues (Jan - July)
+  - plan: Half Year Family Dues (Jan - July)
     cost: $7.50
-  - plan: 2015/2016 Half Year Individual Dues
+  - plan: Full Year Individual Dues
     cost: $10.00
-  - plan: 2015/2016 Half Year Family Dues
+  - plan: Full Year Family Dues
     cost: $15.00

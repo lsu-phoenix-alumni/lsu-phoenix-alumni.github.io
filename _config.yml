@@ -18,7 +18,8 @@ collections:
     output: false
   events:
     output: true
-    
+  pages:
+    output: true
 
 # Plugins
 gems:

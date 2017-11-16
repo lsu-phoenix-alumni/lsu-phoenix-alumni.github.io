@@ -1,14 +1,14 @@
 <div class="w-100 mw9 center ph3 ph4-l pv3 pv4-ns flex items-center justify-between flex-column flex-row-l">
-  <a class="f5 f4-ns fw6 link gold flex items-center justify-start nowrap flex-column flex-row-l" href="{{ site.baseurl }}/">
+  <a class="f5 f4-ns fw6 gold flex items-center justify-start nowrap flex-column flex-row-l" href="{{ site.baseurl }}/">
     <span class="dib h2 w4">{% include _icons/lsu-logo.html %}</span>
     <span class="dib pl2 ttu tracked pv3 pv0-l">{{ site.data.settings.title }}</span>
   </a>
   <nav class="f6 fw6 ttu tracked flex-auto flex flex-wrap justify-center justify-end-l">
-    <a class="link dib white dim ml3 pv3 pv2-ns f5 f6-ns" href="{{ site.baseurl }}/">Home</a>
+    <a class="dib white hover-gold ml3 pv3 pv2-ns f5 f6-ns" href="{{ site.baseurl }}/">Home</a>
     {% assign pages = site.pages | sort: 'order' %}
     {% for page in pages %}
       {% if page.navEnabled %}
-      <a class="link dib white dim ml3 pv3 pv2-ns f5 f6-ns" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      <a class="dib white hover-gold ml3 pv3 pv2-ns f5 f6-ns" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
       {% endif %}
     {% endfor %}
   </nav>

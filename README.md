@@ -5,7 +5,7 @@ Source code for the Phoenix Chapter of the LSU Alumni Association's website.
 
 ## High-level Info
 
-This site is hosted on GitHub Pages. The `docs` folder of this repository is the compiled Jekyll site.
+This site is hosted on GitHub Pages. It is a Jekyll site and is automatically generated and deployed from the `master` branch.
 
 This site makes heavy use of Markdown. If you are unfamiliar with it, you should check out GitHub's [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) article. You will need to be comfortable with it, but fortunately it's quite easy to pick up.
 
@@ -14,21 +14,14 @@ This site makes heavy use of Markdown. If you are unfamiliar with it, you should
 To get the site to run locally, you need a few things installed on your system:
 
 - Ruby (should come standard)
-- [NodeJS](http://nodejs.org)
-- [Gulp](http://gulpjs.com) - `npm install -g gulp`
 - [Jekyll](http://jekyllrb.com) - `gem install jekyll`
 
 Clone the repo, install dependencies, then run a local server:
 
 ```sh
 git clone git@github.com:mmcbride1007/lsu-phoenix-alumni.git
-npm install
-npm start
+jekyll serve
 ```
-
-### Scripts
-
-`npm start` triggers a set of build scripts, which are defined in the Gulpfile. At a high level, what this does is build all your assets - CSS files, JS, images, etc. It minifies them and makes them production ready (strips out unused CSS declarations, minifies JavaScript, styles, and images). It builds your Jekyll site and puts it into the `_site` folder, starts a local server using BrowserSync, and watches for changes to any files.
 
 ## Updating
 
@@ -36,16 +29,19 @@ There are a few different areas for updates, so depending what you need to chang
 
 ### General
 
-After all changes have been made, regardless of what you've changed, you can run this script to commit your changes and push the site up to GitHub, where it will be deployed automatically using GitHub Pages:
+After all changes have been made, regardless of what you've changed, you can commit your changes and push the site up to GitHub, where it will be deployed automatically using GitHub Pages:
 
 ```sh
-npm run deploy
+git add .
+git commit -am 'some changes'
+git push
 ```
-**NOTE:** Be careful, when you run this, your changes will go live immediately. Make sure it all works on your machine before running this!
+
+**NOTE:** Be careful, when you run this, your changes will go live immediately. Make sure it all works on your machine before running this! You may want to consider using branches and the Pull Request features of GitHub.
 
 ### Announcements
 
-All announcements will be shown on the home page. If you want to add a new announcement, all you need to do is create a file in the `_announcements` directory. The file should be a Markdown file (`.md`). Jekyll uses YAML front-matter to store data. You can read about it on their website if you want. For a new announcement, you will need the following front-matter:
+The six most recent announcements will be shown on the home page, all others will be on the Announcements page. If you want to add a new announcement, all you need to do is create a file in the `_announcements` directory. The file should be a Markdown file (`.md`). Jekyll uses YAML front-matter to store data. You can read about it on their website if you want. For a new announcement, you will need the following front-matter:
 
 ```yml
 ---
@@ -58,7 +54,7 @@ The title and date will show on the home page. The date is the date that you are
 
 #### Deleting Old Announcements
 
-Announcement out of date? Just delete the file and commit your changes. Easy peasy, huh?
+Announcement out of date? Just delete the file and commit your changes.
 
 ### Events
 
