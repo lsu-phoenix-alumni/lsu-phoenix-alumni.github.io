@@ -23,6 +23,7 @@ git clone git@github.com:mmcbride1007/lsu-phoenix-alumni.git
 jekyll serve
 ```
 
+
 ## Updating
 
 There are a few different areas for updates, so depending what you need to change, find the appropriate section below.
