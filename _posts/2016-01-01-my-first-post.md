@@ -1,9 +1,9 @@
 ---
+title: My First Post
+date: 2016-01-01 10:00:00 Z
 layout: post
-title:  "My First Post"
-date:   2016-01-01 10:00:00
 previewImage: "/assets/img/cat.jpg"
-excerpt: "This is some teaser text to get you interested in reading my post."
+excerpt: This is some teaser text to get you interested in reading my post.
 ---
 
 Welcome to Jekyll! This is an example blog post that shows several types of HTML content supported in this theme.

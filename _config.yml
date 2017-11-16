@@ -1,28 +1,26 @@
-# Build settings
-markdown: kramdown
-baseurl: "/"
-# your site URL goes here
-# url: ""
-
-port: 4000
-exclude:
-  - README.md
-  
-# styles
-sass:
-  style: compressed
-
-# collections other than posts
+---
+title: Lsu Phoenix Alumni.Github.Io
+timezone: UTC
 collections:
   announcements:
+    title: Announcements
     output: false
   events:
+    title: Events
     output: true
-    
-
-# Plugins
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+markdown: kramdown
+baseurl: "/"
+port: 4000
+exclude:
+- README.md
+sass:
+  style: compressed
 gems:
-  - jekyll-paginate
-
-# How many posts to show per page
+- jekyll-paginate
 paginate: 5
