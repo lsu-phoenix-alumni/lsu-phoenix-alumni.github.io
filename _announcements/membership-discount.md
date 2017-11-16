@@ -1,6 +1,6 @@
 ---
-title: "Joint LSU Alumni/Phoenix Alumni Membership Program"
-date: 2016-05-12
+title: Joint LSU Alumni/Phoenix Alumni Membership Program
+date: 2016-05-12 00:00:00 Z
 ---
 
 Join the LSU Alumni for $50/Yr, and the Phoenix LSU Alumni receives $15 of it.
