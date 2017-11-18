@@ -2,3 +2,5 @@
 # Site settings
 title: Phoenix Alumni
 description: Phoenix Chapter of the LSU Alumni Association
+board_member_img_url: https://res.cloudinary.com/lsu-phoenix-alumni/image/upload/w_128,h_128,c_fill,g_face/board_members/
+event_img_url: https://res.cloudinary.com/lsu-phoenix-alumni/image/upload/

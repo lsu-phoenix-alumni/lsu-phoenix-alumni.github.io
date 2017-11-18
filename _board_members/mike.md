@@ -4,6 +4,6 @@ lastName: McBride
 titles:
     - Website Coordination
 email: mem8754@gmail.com
-image: "/assets/img/boardMembers/cat3.jpg"
+image: "mike.jpg"
 sortOrder: 4
 ---

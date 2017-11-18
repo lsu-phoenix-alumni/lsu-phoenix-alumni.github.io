@@ -5,6 +5,6 @@ titles:
     - Vice President
     - President-Elect
 email: yafahlisa@gmail.com
-image: "/assets/img/boardMembers/cat2.jpg"
+image: "lisa.jpg"
 sortOrder: 2
 ---

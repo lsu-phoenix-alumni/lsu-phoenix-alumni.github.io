@@ -6,6 +6,6 @@ titles:
   - Scholarship
   - Recruiting
 email: nolagirl@hotmail.com
-image: "/assets/img/boardMembers/cat1.jpg"
+image: "tracee.jpg"
 sortOrder: 1
 ---
