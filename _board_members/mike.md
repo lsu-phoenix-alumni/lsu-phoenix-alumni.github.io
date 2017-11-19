@@ -1,9 +1,11 @@
 ---
+title: Mike
 firstName: Mike
 lastName: McBride
 titles:
-    - Website Coordination
+- Website Coordination
 email: mem8754@gmail.com
-image: "mike.jpg"
+image: mike.jpg
 sortOrder: 4
 ---
+

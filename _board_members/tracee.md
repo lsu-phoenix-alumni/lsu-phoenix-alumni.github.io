@@ -1,11 +1,13 @@
 ---
+title: Tracee
 firstName: Tracee
 lastName: Antley McElvogue
 titles:
-  - President
-  - Scholarship
-  - Recruiting
+- President
+- Scholarship
+- Recruiting
 email: nolagirl@hotmail.com
-image: "tracee.jpg"
+image: tracee.jpg
 sortOrder: 1
 ---
+

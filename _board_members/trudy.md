@@ -1,9 +1,11 @@
 ---
+title: Trudy
 firstName: Trudy
 lastName: Vinger
 titles:
-    - Treasurer
+- Treasurer
 email: tvings@yahoo.com
-image: "trudy.jpg"
+image: trudy.jpg
 sortOrder: 3
 ---
+
