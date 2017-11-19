@@ -6,7 +6,7 @@ navEnabled: true
 order: 5
 ---
 
-<header class="fl w-100 w-50-l pv3 ph3-m ph4-l">
+<header class="pv3 ph3-m ph4-l">
   <h2 class="lh-title f3 b mt0">Recent Event Photos</h2>
 </header>
 <section class="fl w-100">
@@ -14,7 +14,13 @@ order: 5
   {% for photo in photos %}
   <div class="fl w-100 w-50-m w-25-l pv3 pa3-ns">
     <div class="aspect-ratio aspect-ratio--6x4">
-      <span style="background-image:url({{ site.data.settings.event_img_url | append: photo.name }});" class="cover bg-center aspect-ratio--object"></span>
+      <span style="background-image:url({{ site.data.settings.event_img_url | append: photo.name }});" class="cover bg-center aspect-ratio--object relative hide-child">
+        {% if photo.caption %}
+        <span class="absolute absolute--fill white child bg-black-50 flex items-center justify-center pa2 pa3-m pa4-l">
+          {{ photo.caption }}
+        </span>
+        {% endif %}
+      </span>
     </div>
   </div>
   {% endfor %}
