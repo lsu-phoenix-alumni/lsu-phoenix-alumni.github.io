@@ -14,15 +14,15 @@ collections:
   pages:
     title: Pages
     output: true
+  photos:
+    title: Photos
+    output: false
   posts:
     title: Posts
     output: true
   uploads:
     title: Uploads
     output: true
-  photos:
-    title: Photos
-    output: false
 markdown: kramdown
 baseurl: "/"
 port: 4000
