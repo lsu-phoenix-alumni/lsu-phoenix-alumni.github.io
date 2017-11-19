@@ -13,7 +13,7 @@ order: 6
     <div class="ba b--black-10 br2 pa3 pa4-ns">
       <div class="tc">
         <span class="br-100 h4 w4 dib ba b--black-10 pa2 mb2">
-          <span class="w-100 h-100 br-100 dib cover bg-center" style="background-image: url({{ site.data.settings.board_member_img_url | append: member.image }})"></span>
+          <span class="w-100 h-100 br-100 dib cover bg-center bg-light-gray" style="background-image: url({{ site.data.settings.board_member_img_url | append: member.image }})"></span>
         </span>
         <h1 class="f3 mb3">{{ member.firstName }} {{ member.lastName }}</h1>
         {% for title in member.titles %}
