@@ -1,17 +1,15 @@
 <div class="w-100 mw9 center flex-l items-center-l justify-between-l">
-  <a class="f5 f6-l fw6 gold flex items-center justify-start nowrap flex-column flex-row-l pa3 pt4 pv4-l" href="{{ site.baseurl }}/">
-    <span class="dib h2 w4 w3-l">{% include _icons/lsu-logo.html %}</span>
-    <span class="dib pl0 pl3-l ttu tracked pt3 pt0-l">{{ site.data.settings.title }}</span>
+  <a class="f5 f6-l fw6 gold flex items-center flex-column flex-row-l nowrap pa3 pt4 pt3-l" href="{{ site.baseurl }}/">
+    <span class="dib h2 w4 w3-l mr3-l mb3">{% include _icons/lsu-logo.html %}</span>
+    <span class="dib ttu tracked">{{ site.data.settings.title }}</span>
   </a>
-  <nav class="f6 fw6 ttu tracked flex-auto w-100 pa3 pb4 pv4-l">
-    <div class="nowrap overflow-x-auto tc-ns tr-l">
-      <a class="dib white hover-gold pv3 pv2-ns f6" href="{{ site.baseurl }}/">Home</a>
-      {% assign pages = site.pages | sort: 'order' %}
-      {% for page in pages %}
-        {% if page.navEnabled %}
-        <a class="dib white hover-gold ml3 pv3 pv2-ns f6" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-        {% endif %}
-      {% endfor %}
-    </div>
+  <nav class="f6 fw6 ttu tracked flex-auto w-100 pa3 pb4 pv4-l tl tc-m tr-l">
+    <a class="dib white hover-gold mv3 mv2-ns f6 mr3" href="{{ site.baseurl }}/">Home</a>
+    {% assign pages = site.pages | sort: 'order' %}
+    {% for page in pages %}
+      {% if page.navEnabled %}
+      <a class="dib white hover-gold mr3 mv3 mv2-ns f6" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+      {% endif %}
+    {% endfor %}
   </nav>
 </div>
