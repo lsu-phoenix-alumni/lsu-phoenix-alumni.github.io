@@ -5,6 +5,9 @@ collections:
   announcements:
     title: Announcements
     output: false
+  board_members:
+    title: Board Members
+    output: false
   events:
     title: Events
     output: true
@@ -17,9 +20,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-  board_members:
-    title: Board Members
-    output: false
 markdown: kramdown
 baseurl: "/"
 port: 4000
