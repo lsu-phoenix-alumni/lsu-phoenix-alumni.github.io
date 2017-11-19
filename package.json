@@ -1,0 +1,13 @@
+{
+  "name": "lsu-phoenix-alumni.github.io",
+  "version": "1.0.0",
+  "description": "LSU Phoenix Alumni Association",
+  "scripts": {
+    "start": "jekyll serve --config _config.yml,_config.dev.yml"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsu-phoenix-alumni/lsu-phoenix-alumni.github.io.git"
+  },
+  "homepage": "https://lsu-phoenix-alumni.github.io"
+}
