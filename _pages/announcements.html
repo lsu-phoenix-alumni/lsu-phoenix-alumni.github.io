@@ -8,7 +8,7 @@ order: 3
 
 <section>
   <div class="flex flex-wrap">
-  {% assign announcements = (site.announcements | sort:'date') | reverse %}
+  {% assign announcements = site.announcements | sort:'date' | reverse %}
   {% for post in announcements %}
     <article class="w-100 w-50-m w-third-l mb3 pa2 pb3 pa3-ns {% if forloop.last == false %} bb b--black-10 bn-ns{% endif %}">
       <h3 class="f4 lh-title mv0">{{ post.title }}</h3>
