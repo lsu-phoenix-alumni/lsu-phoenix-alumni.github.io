@@ -6,6 +6,6 @@ titles:
 - Treasurer
 email: tvings@yahoo.com
 image: trudy.jpg
-sortOrder: 3
+position: 3
 ---
 

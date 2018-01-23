@@ -5,7 +5,7 @@
   </a>
   <nav class="f6 fw6 ttu tracked flex-auto w-100 pa3 pv4-l tr-l bt bb bn-l b--white-30">
     <a class="dib white hover-gold mv3 mv2-ns f6 mr3" href="{{ site.baseurl }}/">Home</a>
-    {% assign pages = site.pages | sort: 'order' %}
+    {% assign pages = site.pages | sort: 'position' %}
     {% for page in pages %}
       {% if page.navEnabled %}
       <a class="dib white hover-gold mr3 mv3 mv2-ns f6" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

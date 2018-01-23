@@ -3,14 +3,14 @@ title: Photos
 permalink: "/photos/"
 layout: page
 navEnabled: true
-order: 5
+position: 5
 ---
 
 <header class="pv3 ph3-m ph4-l">
   <h2 class="lh-title f3 b mt0">Recent Event Photos</h2>
 </header>
 <section class="fl w-100">
-  {% assign photos = site.photos | sort:'date' | reverse %}
+  {% assign photos = site.photos | sort:'position' %}
   {% for photo in photos %}
   <div class="fl w-100 w-50-m w-25-l pv3 pa3-ns">
     <div class="aspect-ratio aspect-ratio--6x4">

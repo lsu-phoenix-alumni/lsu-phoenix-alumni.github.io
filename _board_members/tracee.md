@@ -8,6 +8,6 @@ titles:
 - Recruiting
 email: nolagirl@hotmail.com
 image: tracee.jpg
-sortOrder: 1
+position: 1
 ---
 

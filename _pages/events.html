@@ -3,11 +3,11 @@ title: Events
 permalink: "/events/"
 layout: page
 navEnabled: true
-order: 1
+position: 1
 ---
 
 <section class="measure-wide">
-  {% assign events = site.events | sort:'date' %}
+  {% assign events = site.events | sort:'position' %}
   {% for post in events %}    
     <article class="mb3">
       <h3 class="f4 lh-title mv0"><a class="link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h3>

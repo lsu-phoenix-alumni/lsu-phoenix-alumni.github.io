@@ -7,6 +7,6 @@ titles:
 - President-Elect
 email: yafahlisa@gmail.com
 image: lisa.jpg
-sortOrder: 2
+position: 2
 ---
 

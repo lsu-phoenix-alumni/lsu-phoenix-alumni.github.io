@@ -3,11 +3,11 @@ title: Board
 permalink: "/board/"
 layout: page
 navEnabled: true
-order: 6
+position: 6
 ---
 
 <section class="flex flex-wrap">
-  {% assign members = site.board_members | sort: 'sortOrder' %}
+  {% assign members = site.board_members | sort: 'position' %}
   {% for member in members %}
   <article class="w-100 w-50-m w-25-l pa3">
     <div class="ba b--black-10 br2 pa3 pa4-ns">
