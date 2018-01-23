@@ -1,5 +1,6 @@
 ---
 title: Lisa
+position: 2
 firstName: Lisa
 lastName: Stewart
 titles:
@@ -7,6 +8,5 @@ titles:
 - President-Elect
 email: yafahlisa@gmail.com
 image: lisa.jpg
-position: 2
 ---
 

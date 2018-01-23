@@ -1,5 +1,6 @@
 ---
 title: Tracee
+position: 1
 firstName: Tracee
 lastName: Antley McElvogue
 titles:
@@ -8,6 +9,5 @@ titles:
 - Recruiting
 email: nolagirl@hotmail.com
 image: tracee.jpg
-position: 1
 ---
 
