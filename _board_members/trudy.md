@@ -1,6 +1,6 @@
 ---
 title: Trudy
-position: 3
+position: 2
 firstName: Trudy
 lastName: Vinger
 titles:

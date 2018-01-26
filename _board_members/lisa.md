@@ -1,6 +1,6 @@
 ---
 title: Lisa
-position: 2
+position: 1
 firstName: Lisa
 lastName: Stewart
 titles:

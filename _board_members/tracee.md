@@ -1,6 +1,6 @@
 ---
 title: Tracee
-position: 1
+position: 0
 firstName: Tracee
 lastName: Antley McElvogue
 titles:
