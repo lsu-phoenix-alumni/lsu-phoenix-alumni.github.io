@@ -1,6 +1,6 @@
 ---
 title: Mike
-position: 4
+position: 0
 firstName: Mike
 lastName: McBride
 titles:
