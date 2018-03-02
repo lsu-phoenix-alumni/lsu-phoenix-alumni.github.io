@@ -11,10 +11,10 @@ layout: default
     {{ content }}
   </article>
   
-  <aside class="fl pl4-l db">
-    <h3 class="f6 ttu tracked mv3 mt0-ns">Location:</h3>
+  {% if page.venue %}
+    <aside class="fl pl4-l db">
+      <h3 class="f6 ttu tracked mv3 mt0-ns">Location:</h3>
     
-    {% if page.venue %}
       <article class="bg-white center ba b--black-10">
         {% if page.venue.name %}
           <div class="pv2 ph3 bb b--black-10">
@@ -45,6 +45,6 @@ layout: default
           
         </div>
       </article>
-    {% endif %}
-  </aside>
+    </aside>
+  {% endif %}
 </div>
