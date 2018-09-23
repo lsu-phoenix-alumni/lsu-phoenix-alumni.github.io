@@ -1,6 +1,6 @@
 ---
 title: LSU @ Florida - Viewing Party at OTG
-date: 2018-09-23 19:56:00 Z
+date: 2018-10-06 00:00:00 Z
 ---
 
 Join the LSU Phoenix Alumni Association to watch the LSU-Florida game on Saturday, Oct 6, 2018. We'll be at Old Town Gringos in Old Town Scottsdale (4209 N Craftsman Ct). 
