@@ -1,5 +1,5 @@
 ---
-title: Ole Miss at LSU
+title: Ole Miss at LSU - Viewing Party at OTG
 date: 2018-09-29 18:15:00 Z
 ---
 
