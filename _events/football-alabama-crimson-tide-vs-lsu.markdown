@@ -1,6 +1,7 @@
 ---
 title: 'Football: Alabama Crimson Tide vs LSU'
 date: 2018-09-24 00:00:00 Z
+position: 4
 excerpt: Game time is TBA.
 venue:
   name: Old Town Gringos Restaurant and Bar
