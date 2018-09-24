@@ -1,6 +1,11 @@
 ---
 title: Ole Miss at LSU - Viewing Party at OTG
 date: 2018-09-29 18:15:00 Z
+venue:
+  name: Old Town Gringo's
+  address: 4209 N Craftsman Ct., Scottsdale AZ 85251
+  phone: "(480) 423-3800"
+  locationUrl: https://goo.gl/maps/MQEJhvWt1972
 layout: event
 ---
 
