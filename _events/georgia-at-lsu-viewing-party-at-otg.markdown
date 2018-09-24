@@ -2,6 +2,12 @@
 title: 'Football: Georgia Bulldogs vs LSU'
 date: 2018-10-13 00:00:00 Z
 position: 2
+excerpt: Kickoff time tba.
+venue:
+  name: Old Town Gringos Restaurant and Bar
+  address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
+  Key: "(480)-423-3800"
+  locationURL: https://goo.gl/maps/tWmiScsvSf22
 layout: event
 ---
 
