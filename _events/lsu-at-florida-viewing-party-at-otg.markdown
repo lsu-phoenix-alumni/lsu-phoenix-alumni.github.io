@@ -3,11 +3,11 @@ title: 'Football: LSU @ Florida'
 date: 2018-10-06 12:30:00 Z
 excerpt: LSU @ Florida
 Field name: 
-venue:
-  name: Old Town Gringos Restaurant and Bar
-  address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
-  locationURL: https://goo.gl/maps/ktFRnDCxqAS2
-  phone: "(480) 423-3800"
+Venue:
+  Name: Old Town Gringos Restaurant and Bar
+  Address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
+  Phone: "(480) 423-3800"
+  Map: https://goo.gl/maps/ktFRnDCxqAS2
 layout: event
 ---
 
