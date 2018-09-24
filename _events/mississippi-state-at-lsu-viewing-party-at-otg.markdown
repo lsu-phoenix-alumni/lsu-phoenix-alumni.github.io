@@ -1,5 +1,5 @@
 ---
-title: 'Football: Mississippi State Bulldogs vs. LSU'
+title: 'Football: Mississippi State Bulldogs vs LSU'
 date: 2018-10-20 00:00:00 Z
 position: 3
 excerpt: Game time is TBA.
