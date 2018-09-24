@@ -1,7 +1,7 @@
 ---
 title: 'Football: Ole Miss at LSU'
 date: 2018-09-29 18:15:00 Z
-position: 1
+position: 0
 excerpt: Kickoff at 6:15pm MST
 venue:
   name: Old Town Gringos Restaurant and Bar

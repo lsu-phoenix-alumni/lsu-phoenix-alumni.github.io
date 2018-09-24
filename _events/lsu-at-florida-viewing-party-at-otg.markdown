@@ -1,7 +1,7 @@
 ---
 title: 'Football: LSU Tigers at Florida Gators'
 date: 2018-10-06 12:30:00 Z
-position: 0
+position: 1
 excerpt: 12:30pm MST
 venue:
   name: Old Town Gringos Restaurant and Bar
