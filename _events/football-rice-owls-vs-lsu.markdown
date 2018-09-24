@@ -1,6 +1,7 @@
 ---
 title: 'Football: Rice Owls vs LSU'
 date: 2018-11-17 00:00:00 Z
+position: 6
 excerpt: Game time is TBA.
 venue:
   name: Old Town Gringos Restaurant and Bar
