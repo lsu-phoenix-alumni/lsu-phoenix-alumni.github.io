@@ -7,7 +7,7 @@ venue:
   name: Old Town Gringos Restaurant and Bar
   address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
   phone: "(480)-423-3800"
-  locationURL: https://goo.gl/maps/tWmiScsvSf22
+  locationUrl: https://goo.gl/maps/tWmiScsvSf22
 layout: event
 ---
 
