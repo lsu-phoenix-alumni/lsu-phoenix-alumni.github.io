@@ -1,6 +1,7 @@
 ---
 title: Mississippi State at LSU - Viewing Party at OTG
 date: 2018-10-20 00:00:00 Z
+position: 3
 layout: event
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Georgia at LSU - Viewing Party at OTG
 date: 2018-10-13 00:00:00 Z
+position: 2
 layout: event
 ---
 
