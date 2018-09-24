@@ -1,6 +1,7 @@
 ---
 title: 'Football: LSU vs Texas A&M Aggies'
 date: 2018-11-24 00:00:00 Z
+position: 7
 excerpt: Game time is TBA.
 venue:
   name: Old Town Gringos Restaurant and Bar
