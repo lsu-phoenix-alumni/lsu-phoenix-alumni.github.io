@@ -1,6 +1,7 @@
 ---
 title: 'Football: LSU vs Arkansas Razorbacks'
 date: 2018-11-10 00:00:00 Z
+position: 5
 excerpt: Game time is TBA.
 venue:
   name: Old Town Gringos Restaurant and Bar
