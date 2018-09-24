@@ -1,5 +1,5 @@
 ---
-title: 'Football: Georgia Bulldogs at LSU'
+title: 'Football: Georgia Bulldogs vs LSU'
 date: 2018-10-13 00:00:00 Z
 position: 2
 layout: event
