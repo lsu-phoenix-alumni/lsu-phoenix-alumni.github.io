@@ -1,5 +1,5 @@
 ---
-title: 'Football: LSU at Florida Gators'
+title: 'Football: LSU vs Florida Gators'
 date: 2018-10-06 12:30:00 Z
 position: 1
 excerpt: 12:30pm MST
