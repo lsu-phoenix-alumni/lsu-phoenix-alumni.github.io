@@ -2,7 +2,7 @@
 title: 'Football: LSU Tigers at Florida Gators'
 date: 2018-10-06 12:30:00 Z
 excerpt: 12:30pm MST
-Venue:
+venue:
   name: Old Town Gringos Restaurant and Bar
   address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
   phone: "(480) 423-3800"
