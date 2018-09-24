@@ -11,4 +11,4 @@ venue:
 layout: event
 ---
 
-Join the LSU Phoenix Alumni Association to watch the LSU-Florida game on Saturday, Oct 6. OTG has the food and drinks, all we need is **you** to help us cheer on the Tigers! Game time is 12:30pm MST.
+Join the LSU Phoenix Alumni Association to watch the LSU-Florida game on Saturday, Oct 6. **OTG** has the food and drinks, all we need is **YOU** to help us cheer on the Tigers! Game time is 12:30pm MST.
