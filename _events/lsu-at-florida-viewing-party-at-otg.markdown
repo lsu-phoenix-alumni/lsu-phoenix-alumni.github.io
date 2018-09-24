@@ -1,5 +1,5 @@
 ---
-title: LSU @ Florida - Viewing Party at OTG
+title: 'Football: LSU @ Florida'
 date: 2018-10-06 12:30:00 Z
 excerpt: LSU @ Florida
 Field name: 
