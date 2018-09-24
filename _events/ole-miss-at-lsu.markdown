@@ -1,5 +1,5 @@
 ---
-title: 'Football: Ole Miss Rebels at LSU Tigers'
+title: 'Football: Ole Miss Rebels at LSU'
 date: 2018-09-29 18:15:00 Z
 position: 0
 excerpt: Kickoff at 6:15pm MST
