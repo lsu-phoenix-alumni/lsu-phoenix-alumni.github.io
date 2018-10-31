@@ -3,12 +3,10 @@ title: Dates to Note
 date: 2018-09-24 00:00:00 Z
 ---
 
-It's not often that LSU athletics makes it out to the west coast. Let's show our support for them when they do!
+It's not often that LSU athletics makes it out west. Let's show our support for them when they do!
 
-* September 29 - October 7: Women's Tennis in Pacific Palisades, CA
-
-* November 7 - 11: Men's Tennis in Surprise, AZ
-
-* December 15: Men's Basketball vs St. Mary's in Las Vegas, NV
-
-* March 15: Gymnastics vs Arizona in Tucson, AZ
+* November 7-8 - LSU Women's Tennis at ITA National Fall Championships in Surprise, AZ
+* December 15 - LSU Basketball vs St. Mary's in Las Vegas 8pm
+* February 18-20 - LSU Men's Golf at PGA West in LaQuinta, CA
+* March 9-10 - LSU Beach Volleyball in Manhattan Beach, CA
+* March 15 - LSU Gymnastics at UA in Tucson  
