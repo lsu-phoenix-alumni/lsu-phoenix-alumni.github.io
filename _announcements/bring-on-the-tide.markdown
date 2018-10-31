@@ -1,6 +1,7 @@
 ---
 title: Bring On The Tide!
 date: 2018-10-31 05:33:00 Z
+position: 0
 ---
 
 **Geaux Tigers!!**
