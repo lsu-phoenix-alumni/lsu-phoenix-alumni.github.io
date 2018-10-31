@@ -1,7 +1,7 @@
 ---
 title: Dates to Note
 date: 2018-09-24 00:00:00 Z
-position: 1
+position: 3
 ---
 
 It's not often that LSU athletics makes it out west. Let's show our support for them when they do!
