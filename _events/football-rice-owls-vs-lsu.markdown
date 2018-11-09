@@ -11,6 +11,6 @@ venue:
 layout: event
 ---
 
-The LSU Phoenix Alumni group will get together on November 17 for a little break in SEC action to watch our Fighting Tigers take on the Rice Owls. Join us at **OTG** for fun, food, and football!
+The LSU Phoenix Alumni group will get together on November 17 for a little break in SEC action to watch our Fighting Tigers take on the Rice Owls. This will be the Tigers' last home game of the season. Join us at **OTG** for fun, food, and football!
 
 Game time is 5:30pm MST. Check for schedule updates at [LSUSports.net](http://www.lsusports.net/SportSelect.dbml?SPID=2164&SPSID=27811&DB_OEM_ID=5200).
