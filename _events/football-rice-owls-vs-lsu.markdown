@@ -2,7 +2,7 @@
 title: 'Football: Rice Owls vs LSU'
 date: 2018-11-17 00:00:00 Z
 position: 6
-excerpt: Game time is TBA.
+excerpt: Game time is 5:30pm MST.
 venue:
   name: Old Town Gringos Restaurant and Bar
   address: 4209 N Craftsman Ct, Scottsdale, AZ 85251
