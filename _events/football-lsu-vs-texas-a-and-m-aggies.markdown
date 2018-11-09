@@ -11,6 +11,6 @@ venue:
 layout: event
 ---
 
-Join the LSU Phoenix Alumni chapter for the final regular season game of 2018 on November 24 when the Tigers take on the Aggies of Texas A&M in College Station. Join us at **OTG** for food, fun, and Fighting Tiger Football!
+Join the LSU Phoenix Alumni chapter for the final regular season game of 2018 on November 24 when the Tigers take on the Aggies of Texas A&M in College Station. Join us at **OTG** for food, fun, and **Fighting Tiger Football!**
 
 Game time is 5:30pm MST. Check for schedule updates at [LSUSports.net](http://www.lsusports.net/SportSelect.dbml?SPID=2164&SPSID=27811&DB_OEM_ID=5200).
