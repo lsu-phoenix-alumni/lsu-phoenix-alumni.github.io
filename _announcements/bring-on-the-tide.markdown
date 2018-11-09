@@ -1,15 +1,13 @@
 ---
-title: Bring On The Tide!
+title: Battle for The Boot
 date: 2018-10-31 05:33:00 Z
 position: 0
 ---
 
-**Geaux Tigers!!**
+Yes, that loss last Saturday was painful. Yes, we've been in mourning. And yes, it's time to move forward.  
  
-Saturday Night in Baton Rouge. Is there anything more perfect for this matchup?  
+The Tigers are still in the Top 10 in both polls and are having a season few expected. This week they head to Fayetteville to take on the Razorbacks. Time for some roasted pig!  
  
-LSU Alumni Phoenix will be hosting the watch party of the season (so far) at Old Town Gringos. Festivities begin at 4pm Saturday - Kickoff is at 5pm.   
- 
-We have a great event planned for everyone complete with raffles, Big Al the Pinata and OTG game day specials! All funds from raffles will go towards LSU scholarships for local students. 
- 
-We could still use a couple of extra hands to help out with all the fun. If you can get there early to help decorate or sell raffle tickets, please contact Tracee (602.326.0229).  
+LSU Alumni Phoenix will be hosting the watch party at our Arizona home Old Town Gringos. Kickoff is at 5:30 here in Arizona. 
+
+**Geaux Tigers!**    
