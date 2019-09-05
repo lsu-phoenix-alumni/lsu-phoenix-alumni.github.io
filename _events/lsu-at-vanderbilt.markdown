@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Vanderbilt
-date: 2019-08-13 00:00:00 Z
+date: 2019-09-21 00:00:00 Z
 tags:
 - football
 position: 4
