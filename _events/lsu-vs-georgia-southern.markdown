@@ -1,5 +1,5 @@
 ---
-title: LSU vs. Georgia Southern (w, 55-3)
+title: LSU Football vs. Georgia Southern (w, 55-3)
 date: 2019-08-31 16:30:00 Z
 tags:
 - football
