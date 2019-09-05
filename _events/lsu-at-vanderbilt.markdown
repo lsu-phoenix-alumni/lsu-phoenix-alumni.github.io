@@ -1,5 +1,5 @@
 ---
-title: LSU at Vanderbilt
+title: LSU Football at Vanderbilt
 date: 2019-08-13 00:00:00 Z
 tags:
 - football
