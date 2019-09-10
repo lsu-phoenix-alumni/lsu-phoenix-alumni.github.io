@@ -6,7 +6,7 @@ tags:
 position: 4
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/UtahStateAggies.png "Utah State Aggies") **AT** ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") **IN TIGER STADIUM**
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/UtahStateAggies.png "Utah State Aggies") **AT** ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") ** IN TIGER STADIUM**
 
 #### The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale for the Fighting Tigers' game with Utah State.
 
