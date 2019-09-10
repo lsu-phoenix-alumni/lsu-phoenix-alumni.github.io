@@ -1,5 +1,5 @@
 ---
-title: LSU Football at Texas
+title: LSU Football at Texas (w 45-38)
 date: 2019-09-07 16:30:00 Z
 tags:
 - football
