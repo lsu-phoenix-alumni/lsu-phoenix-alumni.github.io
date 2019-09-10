@@ -6,9 +6,7 @@ tags:
 position: 9
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") 
-# at
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AlabamaCrimsonTide.png "Alabama Crimson Tide")
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AlabamaCrimsonTide.png "Alabama Crimson Tide")
 
 ## The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* to watch the Fighting Tigers' annual showdown with the Crimson Tide in Tuscaloosa. ***GEAUX TIGERS!!***
 
