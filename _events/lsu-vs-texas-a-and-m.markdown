@@ -6,9 +6,7 @@ tags:
 position: 12
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasAggies.png "Texas A&M Aggies")
-# vs.
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasAggies.png "Texas A&M Aggies") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
 
 ## The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* for the Fighting Tigers' season finale against the Texas A&M Aggies in Tiger Stadium. 
 
