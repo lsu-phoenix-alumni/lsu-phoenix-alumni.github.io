@@ -6,7 +6,7 @@ tags:
 position: 2
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/NWDemons.png "Northwestern State Demons") ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/NWDemons.png "Northwestern State Demons") **AT** ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
 
 #### The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale when the Fighting Tigers host Northwestern State.  
 
