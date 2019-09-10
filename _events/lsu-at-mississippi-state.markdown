@@ -6,9 +6,7 @@ tags:
 position: 6
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
-# at
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/MSUBulldogs.png "Utah State Aggies")
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/MSUBulldogs.png "Utah State Aggies")
 
 ## The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* for the Fighting Tigers' visit to Starkville for an SEC West match-up with the Mississippi State Bulldogs. 
 
