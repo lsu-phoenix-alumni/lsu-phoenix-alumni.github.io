@@ -7,7 +7,7 @@ position: 5
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/FloridaGators.png "Florida Gators") 
-# VS. 
+# vs. 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
 
 
