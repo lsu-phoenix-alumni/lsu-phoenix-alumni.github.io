@@ -10,8 +10,6 @@ position: 5
 # VS. 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
 
-## 
-## BATON ROUGE
 
 ## The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale for a key SEC battle between our Fighting Tigers and the Florida Gators! 
 
