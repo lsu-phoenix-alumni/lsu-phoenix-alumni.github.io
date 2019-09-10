@@ -6,7 +6,7 @@ tags:
 position: 11
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/ArkansasRazorbacks.png "Arkansas Razorbacks") ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/ArkansasRazorbacks.png "Arkansas Razorbacks") ** AT ** ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") ** IN TIGER STADIUM**
 
 #### The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale as the Fighting Tigers host the Arkansas Razorbacks in the 2019 edition of the **Battle for the Golden Boot.** 
 
