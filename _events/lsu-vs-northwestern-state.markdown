@@ -3,7 +3,7 @@ title: LSU Football vs. Northwestern State
 date: 2019-09-14 16:30:00 Z
 tags:
 - football
-position: 3
+position: 2
 ---
 
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale when the Fighting Tigers host Northwestern State.  

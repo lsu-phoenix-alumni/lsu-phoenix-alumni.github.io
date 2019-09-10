@@ -3,7 +3,7 @@ title: LSU Football at Texas (w 45-38)
 date: 2019-09-07 16:30:00 Z
 tags:
 - football
-position: 2
+position: 1
 ---
 
 The LSU Phoenix Alumni group will meet at R.T. O'Sullivan's in Scottsdale when the Fighting Tigers visit the Texas Longhorns in Austin. Game time is at 4:30pm MST. 

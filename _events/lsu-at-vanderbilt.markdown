@@ -3,7 +3,7 @@ title: LSU Football at Vanderbilt
 date: 2019-09-21 09:00:00 Z
 tags:
 - football
-position: 4
+position: 3
 ---
 
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale as the Fighting Tigers open SEC play against the Vanderbilt Commodores in Nashville.  

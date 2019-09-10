@@ -3,7 +3,7 @@ title: LSU Football at Mississippi State
 date: 2019-10-19 00:00:00 Z
 tags:
 - football
-position: 7
+position: 6
 ---
 
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale for the Fighting Tigers' visit to Starkville for an SEC West match-up with the Mississippi State Bulldogs. 

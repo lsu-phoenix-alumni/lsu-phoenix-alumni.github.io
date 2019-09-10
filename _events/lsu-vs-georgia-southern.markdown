@@ -3,7 +3,7 @@ title: LSU Football vs. Georgia Southern (w 55-3)
 date: 2019-08-31 16:30:00 Z
 tags:
 - football
-position: 1
+position: 0
 ---
 
 The LSU Phoenix Alumni group will meet at R.T. O'Sullivan's in Scottsdale for the 2019 football season opener. Our Fighting Tigers will host Georgia Southern, game time is at 4:30pm MST. Join us for some fun, friendship, and Tiger football!
