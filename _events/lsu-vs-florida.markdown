@@ -12,7 +12,7 @@ position: 5
 ========
 ## TIGER STADIUM
 ## BATON ROUGE
-
+========
 
 ### The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale for a key SEC battle between our Fighting Tigers and the Florida Gators! 
 
