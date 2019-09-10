@@ -6,7 +6,7 @@ tags:
 position: 0
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/GaSoEagles.png "Georgia Southern Eagles") ** AT ** ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") ** IN TIGER STADIUM**
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/GaSoEagles.png "Georgia Southern Eagles") AT ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") TIGER STADIUM
 
 #### The LSU Phoenix Alumni group will meet at R.T. O'Sullivan's in Scottsdale for the 2019 football season opener. Our Fighting Tigers will host Georgia Southern. Join us for some fun, friendship, and Tiger football!
 
