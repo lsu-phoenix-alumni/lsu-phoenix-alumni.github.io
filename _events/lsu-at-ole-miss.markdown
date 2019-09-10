@@ -6,7 +6,7 @@ tags:
 position: 10
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/OleMissRebels.png "Ole Miss Rebels")
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") **- AT -**![alt text](https://lsu-phoenix-alumni.github.io/assets/img/OleMissRebels.png "Ole Miss Rebels") ** IN TIGER STADIUM**
 
 #### The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://goo.gl/maps/3MjPdBhDfGWxt53HA)** in Scottsdale to watch the Fighting Tigers take on the Rebels of Ole Miss in Oxford. 
 
