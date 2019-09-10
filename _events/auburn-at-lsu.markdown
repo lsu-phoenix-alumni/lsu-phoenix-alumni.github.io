@@ -6,9 +6,7 @@ tags:
 position: 7
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AuburnTigers.png "Auburn Tigers")
-# vs.
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AuburnTigers.png "Auburn Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
 
 ## The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* to watch the Fighting Tigers host the Auburn Tigers in Death Valley for another great SEC West battle.
 
