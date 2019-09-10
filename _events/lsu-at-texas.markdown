@@ -7,7 +7,7 @@ position: 1
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
-# vs.
+# at
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasLonghorns.png "TexasLonghorns")
 
 ## The LSU Phoenix Alumni group will meet at R.T. O'Sullivan's in Scottsdale when the Fighting Tigers visit the Texas Longhorns in Austin. 
