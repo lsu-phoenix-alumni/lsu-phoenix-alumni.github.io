@@ -1,12 +1,12 @@
 ---
-title: LSU Football at Texas (w 45-38)
+title: LSU Football at Texas
 date: 2019-09-07 16:30:00 Z
 tags:
 - football
 position: 1
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasLonghorns.png "TexasLonghorns")
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasLonghorns.png "TexasLonghorns") (won 45-38)
 
 ## The LSU Phoenix Alumni group will meet at R.T. O'Sullivan's in Scottsdale when the Fighting Tigers visit the Texas Longhorns in Austin. 
 
