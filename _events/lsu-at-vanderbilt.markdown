@@ -14,7 +14,7 @@ layout: event
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/VandyCommodores.png "Vanderbilt Commodores")
 
-The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* as the Fighting Tigers open SEC play against the Vanderbilt Commodores in Nashville.  
+The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's](https://scottsdale.rtosullivans.com/ "RTO Scottsdale website") in Scottsdale**  *([map](https://goo.gl/maps/3MjPdBhDfGWxt53HA "Google Maps: RTO Scottsdale"))* as the Fighting Tigers open SEC play against the Vanderbilt Commodores in Nashville.
 <br>
 ***Game time is 9:00am MST!!*** 
 <br>
