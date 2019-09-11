@@ -11,40 +11,50 @@ layout: default
     {{ content }}
   </article>
   
-  {% if page.venue %}
-    <aside class="fl pl4-l db">
-      <h3 class="f6 ttu tracked mv3 mt0-ns">Location:</h3>
+  <aside class="fl pl4-l db">
+    <h3 class="f6 ttu tracked mv3 mt0-ns">Details:</h3>
+    <article class="bg-white center ba b--black-10 mb-3">
+      <div class="pv2 ph3 bb b--black-10">
+         <h2 class="f6 ttu tracked">Date/Time:</h2>
+      </div>
+      <div class="pa3">
+        {{ page.date | date: '%a %B %e, %l:%M %p' }}
+      </div>
+    </article>
     
-      <article class="bg-white center ba b--black-10">
-        {% if page.venue.name %}
-          <div class="pv2 ph3 bb b--black-10">
-             <h1 class="f6 ttu tracked">{{ page.venue.name }}</h1>
-          </div>
+    {% if page.venue %}
+    <h3 class="f6 ttu tracked mv3 mt0-ns">Location:</h3>
+  
+    <article class="bg-white center ba b--black-10">
+      {% if page.venue.name %}
+        <div class="pv2 ph3 bb b--black-10">
+           <h3 class="f6 ttu tracked">{{ page.venue.name }}</h3>
+        </div>
+      {% endif %}
+      
+      <div class="pa3">
+        {% if page.venue.address %}
+        <p class="mb2 lh-copy">
+          {{ page.venue.address }}
+        </p>
         {% endif %}
         
-        <div class="pa3">
-          {% if page.venue.address %}
-          <p class="mb2 lh-copy">
-            {{ page.venue.address }}
-          </p>
-          {% endif %}
-          
-          {% if page.venue.phone %}
-          <div class="pv2">
-            <span class="blue w1 dib mr2">{% include _icons/phone.html %}</span>
-            <a class="link dib" href="tel:{{ page.venue.phone }}">{{ page.venue.phone }}</a>
-          </div>
-          {% endif %}
-          
-          {% if page.venue.locationUrl %}
-          <div class="pv2">
-            <span class="blue w1 dib mr2">{% include _icons/map_marker.html %}</span>
-            <a class="link dib" target="_blank" href="{{ page.venue.locationUrl }}">Get Directions</a>
-          </div>
-          {% endif %}
-          
+        {% if page.venue.phone %}
+        <div class="pv2">
+          <span class="blue w1 dib mr2">{% include _icons/phone.html %}</span>
+          <a class="link dib" href="tel:{{ page.venue.phone }}">{{ page.venue.phone }}</a>
         </div>
-      </article>
-    </aside>
-  {% endif %}
+        {% endif %}
+        
+        {% if page.venue.locationUrl %}
+        <div class="pv2">
+          <span class="blue w1 dib mr2">{% include _icons/map_marker.html %}</span>
+          <a class="link dib" target="_blank" href="{{ page.venue.locationUrl }}">Get Directions</a>
+        </div>
+        {% endif %}
+        
+      </div>
+    </article>
+    {% endif %}
+  </aside>
 </div>
