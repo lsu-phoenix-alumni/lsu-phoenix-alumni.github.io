@@ -2,6 +2,7 @@
 title: Open Date
 date: 2019-11-02 00:00:00 Z
 position: 8
+layout: landing
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") OPEN DATE
