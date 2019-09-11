@@ -20,4 +20,4 @@ Game time is 4:30 pm MST.
 <br>
 Check [LSUSports.net][1] for schedule updates.
 
-[1]: http://www.lsusports.net/SportSelect.dbml?SPID=2164&SPSID=27811&DB_OEM_ID=5200&_ga=2.61742444.1994479276.1565745145-1475237789.1565745143
+[1]: http://www.lsusports.net/SportSelect.dbml?SPID=2164&SPSID=27811&DB_OEM_ID=5200&_ga=2.61742444.1994479276.1565745145-1475237789.1565745143 "THE OFFICIAL SITE OF LSU ATHLETICS"
