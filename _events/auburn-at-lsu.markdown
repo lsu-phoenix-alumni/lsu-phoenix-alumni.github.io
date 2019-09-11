@@ -4,6 +4,7 @@ date: 2019-10-26 00:00:00 Z
 tags:
 - football
 position: 7
+layout: event
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AuburnTigers.png "Auburn Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
