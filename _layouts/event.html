@@ -14,11 +14,11 @@ layout: default
   <aside class="fl pl4-l db">
     <article class="bg-white center ba b--black-10 mb3">
       <div class="pv2 ph3 bb b--black-10">
-         <h2 class="f6 ttu tracked">When:</h2>
+         <h2 class="f6 ttu tracked">When (MST):</h2>
       </div>
       <div class="pa3">
         <p class="mb2 lh-copy">
-          {{ page.date | date: '%A %B %e, %l:%M %p' }}
+          {{ page.date | date: '%a, %b %e, %l:%M %P' }}
         </p>
       </div>
       {% if page.venue %}
