@@ -5,6 +5,11 @@ tags:
 - football
 position: 12
 layout: event
+venue:
+  name: R.T. O'Sullivan's
+  address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
+  phone: "(480) 307-6533"
+  locationUrl: https://goo.gl/maps/3MjPdBhDfGWxt53HA
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasAggies.png "Texas A&M Aggies") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")
