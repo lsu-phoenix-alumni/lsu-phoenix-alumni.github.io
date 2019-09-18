@@ -12,4 +12,4 @@ venue:
 layout: event
 ---
 
-### Won 55-3
+### Won 55-3 (Season: 1-0; SEC: 0-0; SEC West: 0-0
