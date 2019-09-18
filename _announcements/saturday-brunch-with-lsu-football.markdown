@@ -7,11 +7,12 @@ layout: default
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/VandyWatchParty.png)  
 <br>
 LSU travels to Nashville to take on the Commodores of Vanderbilt this weekend. Game time is 9am here in Arizona.   
-<br>Yes, it's **early**.  
 <br>
-Yes, the restaurant **will** be open.  
+Yes, it's early.  
 <br>
-Yes, you **can** show up in your pajamas!!  
+Yes, the restaurant will be open.  
+<br>
+Yes, you can show up in your pajamas!!  
 <br>**[R.T. O'Sullivan's in Scottsdale][1]** has all your brunch favorites including bottomless mimosas. Grab your slippers and bring your bedhead out to RT O'Sullivans!
 
 [1]: https://scottsdale.rtosullivans.com/ "RTO Scottsdale website"
