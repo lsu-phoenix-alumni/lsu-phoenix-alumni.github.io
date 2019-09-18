@@ -12,7 +12,7 @@ venue:
 layout: event
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/NWDemons.png "Northwestern State Demons") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/NWDemons.png "Northwestern State Demons") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") (won 65-14)
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** as the Fighting Tigers host Northwestern State.  
 <br>
