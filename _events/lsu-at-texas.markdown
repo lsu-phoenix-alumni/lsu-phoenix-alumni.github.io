@@ -12,4 +12,4 @@ venue:
 layout: event
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasLonghorns.png "Texas Longhorns") Won 45-38!
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TexasLonghorns.png "Texas Longhorns") Won 45-38!
