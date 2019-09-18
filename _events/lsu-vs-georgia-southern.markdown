@@ -13,4 +13,4 @@ layout: event
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/GaSoEagles.png "Georgia Southern Eagles") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
-#Won 55-3
+# Won 55-3
