@@ -3,7 +3,7 @@ title: LSU Football at Vanderbilt
 date: 2019-09-21 09:00:00 Z
 tags:
 - football
-position: 3
+position: 2
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251

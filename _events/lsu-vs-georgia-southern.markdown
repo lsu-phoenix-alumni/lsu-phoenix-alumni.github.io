@@ -3,7 +3,7 @@ title: LSU Football vs. Georgia Southern
 date: 2019-08-31 16:30:00 Z
 tags:
 - football
-position: 0
+position: 12
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
