@@ -1,6 +1,7 @@
 ---
 title: Upcoming Events
 date: 2019-10-02 05:40:00 Z
+position: 1
 ---
 
 October 9 Dirty Dozen Brass Band/Ivan Neville at Chandler Center for Arts

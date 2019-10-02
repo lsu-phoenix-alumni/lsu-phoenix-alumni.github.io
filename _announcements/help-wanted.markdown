@@ -1,6 +1,7 @@
 ---
 title: Help Wanted
 date: 2019-10-02 05:41:00 Z
+position: 2
 ---
 
 In order to drum up greater participation in our fundraising efforts, **LSU Phoenix Alumni** is working on becoming a 501c3 (nonprofit) organization. One of the requirements is that we have a board of directors. Currently there are 3 of us running the whole shebang; if we want our group to be successful we need more hands on deck.  
