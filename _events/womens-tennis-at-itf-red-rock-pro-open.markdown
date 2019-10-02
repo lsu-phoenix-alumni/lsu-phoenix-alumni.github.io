@@ -1,5 +1,5 @@
 ---
-title: Women's Tennis at ITF Red Rock Pro Open
+title: LSU Women's Tennis at ITF Red Rock Pro Open
 date: 2019-11-04 00:00:00 Z
 position: 6
 name: Red Rock Country Club
