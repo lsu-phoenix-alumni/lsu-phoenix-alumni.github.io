@@ -6,4 +6,4 @@ address: Manhattan Beach, Calif.
 layout: event
 ---
 
-Sat, Apr 11 - Sun, Apr 12 // Times TBA
+Sat, Apr 11, 2020 - Sun, Apr 12, 2020 // Times TBA
