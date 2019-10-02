@@ -3,7 +3,7 @@ title: LSU Football vs. Florida
 date: 2019-10-12 17:00:00 Z
 tags:
 - football
-position: 2
+position: 5
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
