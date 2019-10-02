@@ -10,10 +10,6 @@ position: 1
     <td>Dirty Dozen Brass Band/Ivan Neville at Chandler Center for Arts</td>
 </tr>
 <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
-</tr>
-<tr>
     <td>October 12</td>
     <td>LSU vs. Florida Game Watch 5pm</td>
 </tr>
