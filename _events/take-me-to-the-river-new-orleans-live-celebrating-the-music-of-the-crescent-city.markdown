@@ -2,7 +2,7 @@
 title: Take Me To The River - New Orleans - LIVE! Celebrating the Music of the Crescent
   City
 date: 2019-10-09 19:30:00 Z
-position: 5
+position: 4
 name: Chandler Center for the Arts
 layout: event
 ---

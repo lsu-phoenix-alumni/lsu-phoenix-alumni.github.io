@@ -1,7 +1,7 @@
 ---
 title: Open Date
 date: 2019-11-02 00:00:00 Z
-position: 8
+position: 7
 layout: event
 ---
 
