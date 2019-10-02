@@ -7,4 +7,4 @@ address: Newport Beach, CA
 layout: event
 ---
 
-Times TBA.
+Wednesday, November 6 through Sunday, November 10. Times TBA.
