@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** as the Fighting Tigers do battle with Utah State.  
 <br>
-Game time is TBA.  
+Game time is 9:00am MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
