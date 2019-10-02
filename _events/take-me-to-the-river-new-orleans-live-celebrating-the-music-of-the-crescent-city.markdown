@@ -11,4 +11,4 @@ Featuring - The Dirty Dozen Brass Band, Ivan Neville, Ian Neville, Walter “Wol
 <br>
 Visit **[Chandler Center for the Arts][1]** for more information and tickets.
 
-[1]https://www.chandlercenter.org/events/take-me-river-new-orleans-live-celebrating-music-crescent-city
+[1]:  https://www.chandlercenter.org/events/take-me-river-new-orleans-live-celebrating-music-crescent-city
