@@ -14,23 +14,23 @@ position: 1
     <td>LSU vs. Florida Game Watch 5pm</td>
 </tr>
 <tr>
-    <td>11/4-10</td>
+    <td>11/4</td>
     <td>LSU Women's Tennis at Las Vegas</td>
 </tr>
 <tr>
-    <td>11/6-10</td>
+    <td>11/6</td>
     <td>LSU Men's and Women's Tennis at Newport Beach, CA</td>
 </tr>
 <tr>
-    <td>1/27 -28</td>
+    <td>1/27</td>
     <td>LSU Men's Golf at Westlake Village, CA</td>
 </tr>
 <tr>
-    <td>2/17-19</td>
+    <td>2/17</td>
     <td>LSU Men's Golf at La Quinta, CA</td>
 </tr>
 <tr>
-    <td>4/11-12</td>
+    <td>4/11</td>
     <td>LSU Beach Volleyball at Manhattan Beach, CA</td>
 </tr>
 </table>
