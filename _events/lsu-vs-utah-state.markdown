@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Utah State
-date: 2019-10-05 00:00:00 Z
+date: 2019-10-05 09:00:00 Z
 tags:
 - football
 position: 0
