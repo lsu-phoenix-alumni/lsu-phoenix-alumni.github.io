@@ -1,6 +1,7 @@
 ---
 title: LSU Men's Golf at The Prestige at PGA West
 date: 2020-02-22 00:00:00 Z
+position: 14
 name: PGA West
 address: La Quinta, CA
 layout: event
