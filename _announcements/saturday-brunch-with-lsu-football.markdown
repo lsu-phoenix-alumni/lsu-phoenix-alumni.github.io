@@ -1,5 +1,5 @@
 ---
-title: Saturday Brunch with LSU Football
+title: Brunch and LSU Football
 date: 2019-09-21 09:00:00 Z
 layout: default
 ---
