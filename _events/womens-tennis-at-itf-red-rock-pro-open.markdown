@@ -7,4 +7,4 @@ address: Las Vegas, NV
 layout: event
 ---
 
-Times TBA.
+Monday, Nov. 4 through Sunday, Nov. 10.  Times TBA.
