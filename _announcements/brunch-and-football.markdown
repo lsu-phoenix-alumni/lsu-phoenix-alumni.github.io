@@ -1,5 +1,5 @@
 ---
-title: Brunch and Football
+title: Brunch and LSU Football
 date: 2019-10-02 05:45:00 Z
 ---
 
