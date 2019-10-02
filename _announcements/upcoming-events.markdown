@@ -4,10 +4,37 @@ date: 2019-10-02 05:40:00 Z
 position: 1
 ---
 
-October 9 Dirty Dozen Brass Band/Ivan Neville at Chandler Center for Arts
-October 12 LSU V Florida Game Watch 5pm
-November 4-10 LSU Women's Tennis at Las Vegas
-November 6-10 LSU Men's and Women's Tennis at Newport Beach, CA
-January 27 -28 LSU Men's Golf at Westlake Village, CA
-February 17-19 LSU Men's Golf at La Quinta, CA
-April 11-12 LSU Beach Volleyball at Manhattan Beach, CA
+<table>
+<tr>
+    <td>October 9</td>
+    <td>Dirty Dozen Brass Band/Ivan Neville at Chandler Center for Arts</td>
+</tr>
+<tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+</tr>
+<tr>
+    <td>October 12</td>
+    <td>LSU vs. Florida Game Watch 5pm</td>
+</tr>
+<tr>
+    <td>November 4-10</td>
+    <td>LSU Women's Tennis at Las Vegas</td>
+</tr>
+<tr>
+    <td>November 6-10</td>
+    <td>LSU Men's and Women's Tennis at Newport Beach, CA</td>
+</tr>
+<tr>
+    <td>January 27 -28</td>
+    <td>LSU Men's Golf at Westlake Village, CA</td>
+</tr>
+<tr>
+    <td>February 17-19</td>
+    <td>LSU Men's Golf at La Quinta, CA</td>
+</tr>
+<tr>
+    <td>April 11-12</td>
+    <td>LSU Beach Volleyball at Manhattan Beach, CA</td>
+</tr>
+</table>
