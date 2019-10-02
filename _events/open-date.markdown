@@ -1,5 +1,5 @@
 ---
-title: Open Date
+title: Football Open Date
 date: 2019-11-02 00:00:00 Z
 position: 5
 layout: event
