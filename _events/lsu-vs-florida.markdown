@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for a key SEC battle between our Fighting Tigers and the Florida Gators!  
 <br>
-Game time is TBA.  
+Game time is 5:00pm MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
