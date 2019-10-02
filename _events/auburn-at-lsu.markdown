@@ -3,7 +3,7 @@ title: LSU Football vs. Auburn
 date: 2019-10-26 00:00:00 Z
 tags:
 - football
-position: 3
+position: 4
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
