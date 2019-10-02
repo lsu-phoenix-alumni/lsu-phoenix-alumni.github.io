@@ -4,15 +4,9 @@ date: 2019-09-21 09:00:00 Z
 layout: default
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/VandyWatchParty.png)  
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/UtahStateWatchParty.png)  
 <br>
-LSU travels to Nashville to take on the Commodores of Vanderbilt this weekend. Game time is 9am here in Arizona.   
+LSU will host Utah State at 9am Arizona time this Saturday. **[R.T. O'Sullivan's][1]** has all your brunch favorites: burritos, eggs, Irish coffee & bottomless mimosas. Grab your slippers and bring your bedhead out to RT O'Sullivans this weekend!
 <br>
-Yes, it's early.  
-<br>
-Yes, the restaurant will be open.  
-<br>
-Yes, you can show up in your pajamas!!  
-<br>**[R.T. O'Sullivan's in Scottsdale][1]** has all your brunch favorites including bottomless mimosas. Grab your slippers and bring your bedhead out to RT O'Sullivans!
 
 [1]: https://scottsdale.rtosullivans.com/ "RTO Scottsdale website"
