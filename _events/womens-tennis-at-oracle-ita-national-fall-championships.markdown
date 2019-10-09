@@ -1,9 +1,11 @@
 ---
 title: LSU Women's Tennis at Oracle ITA National Fall Championships
 date: 2019-11-06 00:00:00 Z
-position: 7
-name: Newport Beach Tennis Club
-address: Newport Beach, CA
+position: 5
+venue:
+  name: Newport Beach Tennis Club
+  address: 2601 Eastbluff Dr, Newport Beach, CA 92660
+  locationUrl: https://goo.gl/maps/zs4A277P9kXPxoEE8
 layout: event
 ---
 
