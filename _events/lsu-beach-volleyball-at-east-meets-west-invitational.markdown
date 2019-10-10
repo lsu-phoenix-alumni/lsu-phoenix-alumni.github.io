@@ -1,7 +1,7 @@
 ---
 title: LSU Beach Volleyball at East Meets West Invitational
 date: 2020-04-11 00:00:00 Z
-position: 13
+position: 16
 venue:
   name: Manhattan Beach Pier
   address: 2 Manhattan Beach Blvd, Manhattan Beach, CA 90266
