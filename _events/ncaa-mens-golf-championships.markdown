@@ -10,10 +10,10 @@ venue:
 
 May 29 through June 3, 2020. 
 
-Day 1, May 29:  Stroke play.  Start time 7:50am.
-Day 2, May 30:  Stroke play.  Start time 7:50am.
-Day 3, May 31:  Stroke play.  Start time 7:50am.
-Day 4, June 1:  Stroke play.  Start time 7:50am.
-
-Day 5, June 2:  Match play.  Start time 7:50am.
+Day 1, May 29:  Stroke play.  Start time 7:50am.  
+Day 2, May 30:  Stroke play.  Start time 7:50am.  
+Day 3, May 31:  Stroke play.  Start time 7:50am.  
+Day 4, June 1:  Stroke play.  Start time 7:50am.  
+<br>
+Day 5, June 2:  Match play.  Start time 7:50am.  
 Day 6, June 3:  Match play.  Start time 7:50am.
