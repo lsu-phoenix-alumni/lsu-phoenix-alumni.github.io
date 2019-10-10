@@ -1,7 +1,7 @@
 ---
 title: NCAA Men's Golf Championships - Day 2
 date: 2020-05-30 07:50:00 Z
-position: 18
+position: 19
 venue:
   name: 
   address: 
