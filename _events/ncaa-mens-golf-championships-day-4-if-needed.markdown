@@ -1,6 +1,7 @@
 ---
-title: NCAA Men's Golf Championships - Day 4 (if needed)
+title: NCAA Men's Golf Championships - Day 4
 date: 2020-06-01 07:50:00 Z
+published: false
 position: 21
 venue:
   name: Grayhawk Golf Club
