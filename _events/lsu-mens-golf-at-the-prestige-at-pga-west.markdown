@@ -1,7 +1,7 @@
 ---
 title: LSU Men's Golf at The Prestige at PGA West
 date: 2020-02-17 09:30:00 Z
-position: 13
+position: 12
 venue:
   name: PGA West Greg Norman Golf Course
   address: 81-405 Kingston Heath, La Quinta, CA 92253
