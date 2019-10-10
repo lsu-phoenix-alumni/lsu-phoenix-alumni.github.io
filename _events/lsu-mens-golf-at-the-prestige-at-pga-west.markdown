@@ -1,6 +1,6 @@
 ---
 title: LSU Men's Golf at The Prestige at PGA West
-date: 2020-02-17 09:30:00 Z
+date: 2019-02-17 00:00:00 Z
 position: 12
 venue:
   name: PGA West Greg Norman Golf Course
