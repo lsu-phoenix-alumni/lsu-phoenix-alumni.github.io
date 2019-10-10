@@ -30,7 +30,8 @@ venue:
   </tr>
   <tr>
     <td>5/31/2020</td>
-    <td>Day 3:  Stroke play.</td>
+    <td>Day 3</td>
+    <td>Stroke play.</td>
     <td>Start time 7:50am</td>  
   </tr>
   <tr>
