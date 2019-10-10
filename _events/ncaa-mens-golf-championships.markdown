@@ -9,7 +9,7 @@ venue:
 ---
 
 <table>
-  <caption>NCAA Men's Golf Championships, May 29 through June 3, 2020</caption>
+  <caption>NCAA Men's Golf Championships, 5/29/2020 - 6/3/2020</caption>
   <tr>
     <th>Date</th>
     <th>Event</th>
