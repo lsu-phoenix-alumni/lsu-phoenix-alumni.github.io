@@ -1,6 +1,7 @@
 ---
 title: NCAA Men's Golf Championships - Day 1
 date: 2020-05-29 07:50:00 Z
+published: false
 position: 18
 venue:
   name: Grayhawk Golf Club
