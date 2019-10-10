@@ -1,6 +1,6 @@
 ---
 title: LSU Men's Golf at Southwestern Invitational (Day 2)
-date: 2019-10-09 23:09:00 Z
+date: 2019-01-28 00:00:00 Z
 position: 0
 venue:
   name: North Ranch Country Club
