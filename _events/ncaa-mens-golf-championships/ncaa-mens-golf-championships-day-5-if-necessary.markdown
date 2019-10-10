@@ -1,5 +1,5 @@
 ---
-title: NCAA Men's Golf Championships - Day 5 (if necessary)
+title: NCAA Men's Golf Championships - Day 5 (if needed)
 date: 2020-06-02 07:50:00 Z
 position: 4
 venue:
