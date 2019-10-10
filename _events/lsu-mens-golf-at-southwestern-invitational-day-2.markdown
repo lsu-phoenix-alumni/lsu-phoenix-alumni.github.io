@@ -1,7 +1,7 @@
 ---
 title: LSU Men's Golf at Southwestern Invitational (Day 2)
 date: 2019-01-28 00:00:00 Z
-position: 0
+position: 12
 venue:
   name: North Ranch Country Club
   address: 4761 Valley Spring Dr, Westlake Village, CA 91362
