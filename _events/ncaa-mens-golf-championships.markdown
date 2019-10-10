@@ -1,7 +1,7 @@
 ---
 title: NCAA Men's Golf Championships
 date: 2019-10-09 23:14:00 Z
-position: 16
+position: 17
 venue:
   name: Grayhawk Golf Club
   address: 8620 E Thompson Peak Pkwy, Scottsdale, AZ 85255
