@@ -8,12 +8,41 @@ venue:
   locationUrl: https://goo.gl/maps/adHGRRAZdnfK3WE87
 ---
 
-May 29 through June 3, 2020. 
-
-Day 1, May 29:  Stroke play.  Start time 7:50am.  
-Day 2, May 30:  Stroke play.  Start time 7:50am.  
-Day 3, May 31:  Stroke play.  Start time 7:50am.  
-Day 4, June 1:  Stroke play.  Start time 7:50am.  
-<br>
-Day 5, June 2:  Match play.  Start time 7:50am.  
-Day 6, June 3:  Match play.  Start time 7:50am.
+<table>
+  <caption>NCAA Men's Golf Championships, May 29 through June 3, 2020</caption>
+  <tr>
+    <th>Date</th>
+    <th>Event</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>5/29/2020</td>
+    <td>Day 1: Stroke play.</td>
+    <td>Start time 7:50am.</td>
+  </tr>
+  <tr>
+    <td>5/30/2020</td>
+    <td>Day 2: May 30:  Stroke play.</td>
+    <td>Start time 7:50am.</td>
+  </tr>
+  <tr>
+    <td>5/31/2020</td>
+    <td>Day 3:  Stroke play.</td>
+    <td>Start time 7:50am.  
+  </tr>
+  <tr>
+    <td>6/01/2020</td>
+    <td>Day 4:  Stroke play.</td>
+    <td>Start time 7:50am.</td>
+  </tr>
+  <tr>
+    <td>6/02/2020</td>
+    <td>Day 5:  Match play.</td>
+    <td>Start time 7:50am.</td>
+  </tr>
+  <tr>
+    <td>6/03/2020</td>
+    <td>Day 6:  Match play.</td>
+    <td>Start time 7:50am.</td>
+  </tr>
+</table>
