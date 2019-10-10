@@ -22,7 +22,7 @@ venue:
   </tr>
   <tr>
     <td>5/30/2020</td>
-    <td>Day 2: May 30:  Stroke play.</td>
+    <td>Day 2:  Stroke play.</td>
     <td>Start time 7:50am.</td>
   </tr>
   <tr>
