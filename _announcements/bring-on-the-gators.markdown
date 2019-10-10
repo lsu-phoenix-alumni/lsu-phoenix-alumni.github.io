@@ -1,6 +1,7 @@
 ---
 title: Bring on the Gators!
 date: 2019-10-09 17:14:00 Z
+position: 0
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/UFWatchParty.png)  
