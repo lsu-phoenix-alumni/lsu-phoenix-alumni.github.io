@@ -1,6 +1,6 @@
 ---
 title: NCAA Men's Golf Championships - Day 1
-date: 2020-05-29 01:31:00 Z
+date: 2020-05-29 07:50:00 Z
 venue:
   name: Grayhawk Golf Club
   address: 8620 E Thompson Peak Pkwy, Scottsdale, AZ 85255
