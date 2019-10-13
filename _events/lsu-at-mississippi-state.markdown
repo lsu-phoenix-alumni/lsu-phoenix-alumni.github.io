@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for the Fighting Tigers' visit to Starkville for an SEC West match-up with the Mississippi State Bulldogs.  
 <br>
-Game time is TBA.  
+Game time is 12:30pm MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
