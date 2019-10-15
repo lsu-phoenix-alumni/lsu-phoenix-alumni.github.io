@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Texas A&M
-date: 2019-11-30 00:00:00 Z
+date: 2019-11-30 00:00:00 -07:00
 tags:
 - football
 position: 10
