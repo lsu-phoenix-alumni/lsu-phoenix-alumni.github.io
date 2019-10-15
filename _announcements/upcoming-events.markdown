@@ -7,7 +7,7 @@ position: 1
 <table>
 <tr>
     <td>10/19</td>
-    <td>LSU Football at Mississippi State, 12:30PM MST</td>
+    <td>LSU vs. Mississippi State Watch Party, 12:30PM MST</td>
 </tr>
 <tr>
     <td>11/4</td>
