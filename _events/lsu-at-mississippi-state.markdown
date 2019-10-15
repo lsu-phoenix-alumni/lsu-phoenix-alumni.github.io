@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Mississippi State
-date: 2019-10-19 12:30:00 Z
+date: 2019-10-19 12:30:00 -07:00
 tags:
 - football
 position: 2
