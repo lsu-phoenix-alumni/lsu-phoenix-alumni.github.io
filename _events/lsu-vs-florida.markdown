@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Florida
-date: 2019-10-12 17:00:00 Z
+date: 2019-10-12 17:00:00 -07:00
 published: false
 tags:
 - football
