@@ -1,6 +1,6 @@
 ---
 title: LSU Men's Tennis at Oracle ITA National Fall Championships
-date: 2019-11-06 00:00:00 Z
+date: 2019-11-06 00:00:00 -07:00
 position: 6
 name: Newport Beach Tennis Club
 address: Newport Beach, CA
