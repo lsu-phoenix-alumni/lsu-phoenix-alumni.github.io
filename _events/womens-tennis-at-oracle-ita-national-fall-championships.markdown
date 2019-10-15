@@ -1,6 +1,6 @@
 ---
 title: LSU Women's Tennis at Oracle ITA National Fall Championships
-date: 2019-11-06 00:00:00 Z
+date: 2019-11-06 00:00:00 -07:00
 position: 5
 venue:
   name: Newport Beach Tennis Club
