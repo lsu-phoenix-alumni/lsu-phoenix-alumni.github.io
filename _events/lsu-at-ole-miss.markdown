@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Ole Miss
-date: 2019-11-16 00:00:00 Z
+date: 2019-11-16 00:00:00 -07:00
 tags:
 - football
 position: 8
