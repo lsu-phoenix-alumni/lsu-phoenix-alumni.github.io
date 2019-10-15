@@ -1,6 +1,6 @@
 ---
 title: LSU Men's Golf at The Prestige at PGA West (Day 3)
-date: 2020-02-19 10:30:00 -07:00
+date: 2020-02-19 09:30:00 -07:00
 published: false
 position: 1
 Field name:
