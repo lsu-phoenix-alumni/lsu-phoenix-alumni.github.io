@@ -1,6 +1,6 @@
 ---
 title: NCAA Men's Golf Championships - Day 3
-date: 2020-05-31 07:50:00 Z
+date: 2020-05-31 07:50:00 -07:00
 published: false
 position: 2
 venue:
