@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Auburn
-date: 2019-10-26 00:00:00 Z
+date: 2019-10-26 12:30:00 Z
 tags:
 - football
 position: 3
@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** to watch the Fighting Tigers host the Auburn Tigers in Death Valley for another great SEC West battle.  
 <br>
-Game time is TBA.  
+Game time is 12:30pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.  
 
