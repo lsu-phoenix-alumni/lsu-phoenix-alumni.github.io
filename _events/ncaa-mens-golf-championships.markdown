@@ -1,6 +1,6 @@
 ---
 title: NCAA Men's Golf Championships
-date: 2019-05-29 07:50:00 Z
+date: 2019-05-29 07:50:00 -07:00
 position: 14
 venue:
   name: Grayhawk Golf Club
