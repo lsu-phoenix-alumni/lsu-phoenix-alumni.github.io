@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Alabama
-date: 2019-11-09 00:00:00 Z
+date: 2019-11-09 00:00:00 -07:00
 tags:
 - football
 position: 7
