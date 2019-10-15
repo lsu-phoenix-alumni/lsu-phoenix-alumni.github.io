@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Arkansas
-date: 2019-11-23 00:00:00 Z
+date: 2019-11-23 00:00:00 -07:00
 tags:
 - football
 position: 9
