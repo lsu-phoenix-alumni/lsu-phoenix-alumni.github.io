@@ -6,10 +6,9 @@ layout: default
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PhxAlumni.png)  
-<br>  
+<br>
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TigerNationChallenge2019.png)  
-<br>  
-<br>  
+<br>
 **Tiger Nation Challenge starts Monday, October 21 and ends on Saturday, October 26th!**  
 <br>  
 <br>  
