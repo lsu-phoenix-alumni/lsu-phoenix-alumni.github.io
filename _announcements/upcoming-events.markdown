@@ -1,13 +1,13 @@
 ---
 title: Upcoming Events
-date: 2019-10-02 05:40:00 Z
+date: 2019-10-01 22:40:00 -07:00
 position: 1
 ---
 
 <table>
 <tr>
-    <td>10/19</td>
-    <td>LSU vs. Mississippi State Watch Party, 12:30PM MST</td>
+    <td>10/26</td>
+    <td>LSU vs. Auburn Watch Party, 12:30PM MST</td>
 </tr>
 <tr>
     <td>11/4</td>
