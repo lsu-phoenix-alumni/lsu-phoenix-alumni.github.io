@@ -21,7 +21,7 @@ All of #LSUTigerNation will rally together to show support. No Amount is too sma
 **What impact will I be making?**  
 Your contribution will support the LSU Alumni Fund. You will directly impact an enhanced alumni experience for all of #LSUTigerNation. Think social, professional, and philanthropic opportunities that keep alumni connected to each other and to our beloved alma mater. You will also be supporting LSU Future Alumni (aka students) as contributions support scholarships and student programming such as Speaker Series, Finals Study Halls, Graduation Experiences, Professional Networking, and more. Also, if our chapter raises the most funds we will receive a donation to our chapter scholarship which helps send a student from our local area to LSU.  
 <br>  
-**What's in it for me? **  
+**What's in it for me?**  
 It's a win-win! Your support helps you stay connected to LSU and your contribution is tax-deductible. Also, if you donate $50 or more you will receive a Tiger Pride Button Pack (see phrases below) and you'll be eligible to win cool prizes: an LSU alumni swag pack, a VIP pre-game field experience for LSU vs. Auburn game, and two tickets to the Bowl game! Your $50 donation also qualifies you for an annual LSU Alumni Association membership AND you'll be an official member of our chapter. Make sure to select our chapter when you donate.  
 <br>  
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TNCButtons.png)  
