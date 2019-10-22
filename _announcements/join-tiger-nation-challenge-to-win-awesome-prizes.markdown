@@ -1,6 +1,7 @@
 ---
 title: Join Tiger Nation Challenge to Win Awesome Prizes
 date: 2019-10-22 10:03:00 -07:00
+layout: default
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PhxAlumni.png)  
