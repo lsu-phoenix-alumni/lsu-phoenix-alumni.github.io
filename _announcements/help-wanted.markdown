@@ -1,10 +1,7 @@
 ---
 title: Help Wanted
-date: 2019-10-02 05:41:00 Z
+date: 2019-10-01 22:41:00 -07:00
 position: 2
 ---
 
-In order to drum up greater participation in our fundraising efforts, **LSU Phoenix Alumni** is working on becoming a 501c3 (nonprofit) organization. One of the requirements is that we have a board of directors. Currently there are 3 of us running the whole shebang; if we want our group to be successful we need more hands on deck.  
-<br>The goal of LSU Phoenix is to raise funds for Arizona high school students to attend LSU and to spread the love of LSU and Louisiana to others. If you would like to be part of this initiative please reach out to Tracee. No matter your skill level, we can find a role for you.  
-<br>
-In addition, we will be looking for individuals to help with upcoming watch parties and with Cajun Fest in February. These are great opportunities to contribute to the group with minimal commitment and time. Again, reach out to Tracee (nolagirl@hotmail.com) with your contact info and interest level.  
+We are still looking for individuals who are interested in joining the LSU Phoenix board of directors as well as folks to help out at upcoming events. Don't be afraid of commitment.  Prior experience is not necessary. Just a love of all things LSU and a desire to tell everyone about it! If you would like to help out in any way, please reach out to Tracee.
