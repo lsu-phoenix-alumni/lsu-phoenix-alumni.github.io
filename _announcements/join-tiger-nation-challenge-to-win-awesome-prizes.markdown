@@ -3,7 +3,6 @@ title: Join Tiger Nation Challenge to Win Awesome Prizes
 date: 2019-10-22 10:03:00 -07:00
 ---
 
-<center>
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PhxAlumni.png)  
 <br>
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TigerNationChallenge2019.png)  
@@ -28,4 +27,3 @@ Give at least $50 and you'll become a member of the LSU Alumni Association and o
 <br>
 Join Tiger Nation Challenge by giving at [LSUAlumni.org/TigerNationChallenge](https://www.classy.org/campaign/tiger-nation-challenge/c250841) until 10/26. Make sure to search for our chapter team!
 Follow LSU Alumni Association on social media to see how #LSUTigerNation is measuring up against Auburn and share on your social media to help spread the #TigerNationChallenge love!  
-</center>
