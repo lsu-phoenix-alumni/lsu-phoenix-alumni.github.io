@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Alabama
-date: 2019-11-09 00:00:00 -07:00
+date: 2019-11-09 13:30:00 -07:00
 tags:
 - football
 position: 7
@@ -14,9 +14,9 @@ layout: event
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AlabamaCrimsonTide.png "Alabama Crimson Tide")  
 <br>
-The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** to watch the Fighting Tigers' annual showdown with the Crimson Tide in Tuscaloosa. ***GEAUX TIGERS!!***  
+The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** to watch the Fighting Tigers' annual showdown with the Alabama Crimson Tide in Tuscaloosa. ***GEAUX TIGERS!!***  
 <br>
-Game time is TBA.  
+Game time is 1:30pm MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
