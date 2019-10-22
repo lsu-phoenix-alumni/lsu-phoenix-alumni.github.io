@@ -9,9 +9,9 @@ date: 2019-10-22 10:03:00 -07:00
 <br>
 **Tiger Nation Challenge** is underway and you have the chance to win great prizes!  
 <br>
-## GIVE BY TUESDAY AND BE ELIGIBLE TO WIN AN LSU ALUMNI SWAG PACK! ##  
+### GIVE BY TUESDAY AND BE ELIGIBLE TO WIN AN LSU ALUMNI SWAG PACK! ###  
 ## GIVE BY THURSDAY AND BE ELIGIBLE TO WIN AN LSU VS. AUBURN PRE-GAME FIELD EXPERIENCE FOR TWO!! ##  
-## GIVE BY SATURDAY AND BE ELIGIBLE TO WIN A PAIR OF 2019 LSU POST-SEASON BOWL GAME TICKETS!!! ##  
+# GIVE BY SATURDAY AND BE ELIGIBLE TO WIN A PAIR OF 2019 LSU POST-SEASON BOWL GAME TICKETS!!! #  
 <br>
 When you give you help support LSU alumni and future alumni through social events and programming, professional networking, and philanthropic opportunities. You also support future alumni scholarships!  
 <br>
