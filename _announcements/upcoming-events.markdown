@@ -18,6 +18,26 @@ position: 1
     <td>LSU Men's and Women's Tennis at Newport Beach, CA</td>
 </tr>
 <tr>
+    <td>11/9</td>
+    <td>LSU at Alabama Game Watch</td>
+</tr>
+<tr>
+    <td>11/16</td>
+    <td>LSU at Ole Miss Game Watch</td>
+</tr>
+<tr>
+    <td>11/23</td>
+    <td>LSU vs Arkansas Game Watch</td>
+</tr>
+<tr>
+    <td>11/30</td>
+    <td>LSU vs Texas A&M Game Watch</td>
+</tr>
+<tr>
+    <td>12/7</td>
+    <td>SEC Championship</td>
+</tr>
+<tr>
     <td>1/27</td>
     <td>LSU Men's Golf at Westlake Village, CA</td>
 </tr>
