@@ -4,6 +4,10 @@ date: 2019-10-22 10:03:00 -07:00
 ---
 
 <center>
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PhxAlumni.png)  
+<br>
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TigerNationChallenge2019.png)  
+<br>
 **Tiger Nation Challenge** is underway and you have the chance to win great prizes!  
 <br>
 <center>
