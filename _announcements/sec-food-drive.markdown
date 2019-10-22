@@ -1,6 +1,7 @@
 ---
 title: SEC Food Drive
 date: 2019-10-22 08:33:00 -07:00
+position: 0
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/FoodDrive.jpg)  
