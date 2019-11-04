@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Ole Miss
-date: 2019-11-16 00:00:00 -07:00
+date: 2019-11-16 17:00:00 -07:00
 tags:
 - football
 position: 4
@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** to watch the Fighting Tigers take on the Rebels of Ole Miss in Oxford.  
 <br>
-Game time is TBA.  
+Game time is 5:00pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.  
 
