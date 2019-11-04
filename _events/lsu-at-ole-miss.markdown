@@ -3,7 +3,7 @@ title: LSU Football at Ole Miss
 date: 2019-11-16 00:00:00 -07:00
 tags:
 - football
-position: 8
+position: 7
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251

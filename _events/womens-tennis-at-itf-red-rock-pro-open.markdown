@@ -1,7 +1,7 @@
 ---
 title: LSU Women's Tennis at ITF Red Rock Pro Open
 date: 2019-11-04 00:00:00 -07:00
-position: 4
+position: 3
 venue:
   name: Red Rock Country Club
   address: 2250 Red Springs Dr., Las Vegas, NV 89135
