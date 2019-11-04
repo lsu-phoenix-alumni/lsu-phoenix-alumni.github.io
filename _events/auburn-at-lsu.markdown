@@ -1,6 +1,7 @@
 ---
 title: LSU Football vs. Auburn
 date: 2019-10-26 12:30:00 -07:00
+published: false
 tags:
 - football
 position: 3
