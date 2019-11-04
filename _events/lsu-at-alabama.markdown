@@ -3,7 +3,7 @@ title: LSU Football at Alabama
 date: 2019-11-09 13:30:00 -07:00
 tags:
 - football
-position: 5
+position: 4
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
