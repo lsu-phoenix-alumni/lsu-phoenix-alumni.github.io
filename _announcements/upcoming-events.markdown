@@ -6,10 +6,6 @@ position: 2
 
 <table>
 <tr>
-    <td>10/26</td>
-    <td>LSU vs. Auburn Watch Party, 12:30PM MST</td>
-</tr>
-<tr>
     <td>11/4</td>
     <td>LSU Women's Tennis at Las Vegas</td>
 </tr>
