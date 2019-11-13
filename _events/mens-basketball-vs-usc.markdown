@@ -10,4 +10,4 @@ venue:
 layout: event
 ---
 
-Staples Center, Los Angeles, CA
+The Fighting Tigers Men's basketball team visits the USC Trojans at the Staples Center in Los Angeles.
