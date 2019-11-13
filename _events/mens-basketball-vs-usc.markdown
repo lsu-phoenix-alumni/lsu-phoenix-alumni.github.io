@@ -6,7 +6,7 @@ venue:
   name: Staples Center
   address: 1111 S Figueroa St, Los Angeles, CA 90015
   phone: "(213) 742-7100"
-  locationURL: https://goo.gl/maps/JMSPRGgZKPQRqCyw5
+  locationUrl: https://goo.gl/maps/JMSPRGgZKPQRqCyw5
 layout: event
 ---
 
