@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Arkansas
-date: 2019-11-23 00:00:00 -07:00
+date: 2019-11-23 17:00:00 -07:00
 tags:
 - football
 position: 5
@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** as the Fighting Tigers host the Arkansas Razorbacks in the 2019 edition of the **Battle for the Golden Boot.**  
 <br>
-Game time is TBA.  
+Game time is 5:00 pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.  
 
