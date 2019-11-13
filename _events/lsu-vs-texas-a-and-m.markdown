@@ -3,7 +3,7 @@ title: LSU Football vs. Texas A&M
 date: 2019-11-30 00:00:00 -07:00
 tags:
 - football
-position: 4
+position: 3
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
