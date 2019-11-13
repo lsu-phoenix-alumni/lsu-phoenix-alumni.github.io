@@ -3,7 +3,7 @@ title: LSU Football vs. Arkansas
 date: 2019-11-23 17:00:00 -07:00
 tags:
 - football
-position: 2
+position: 1
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
