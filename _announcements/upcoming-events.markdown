@@ -6,24 +6,12 @@ position: 2
 
 <table>
 <tr>
-    <td>11/4</td>
-    <td>LSU Women's Tennis at Las Vegas</td>
-</tr>
-<tr>
-    <td>11/6</td>
-    <td>LSU Men's and Women's Tennis at Newport Beach, CA</td>
-</tr>
-<tr>
-    <td>11/9</td>
-    <td>LSU at Alabama Game Watch</td>
-</tr>
-<tr>
     <td>11/16</td>
-    <td>LSU at Ole Miss Game Watch</td>
+    <td>LSU at Ole Miss Game Watch (5pm)</td>
 </tr>
 <tr>
     <td>11/23</td>
-    <td>LSU vs Arkansas Game Watch</td>
+    <td>LSU vs Arkansas Game Watch (5pm)</td>
 </tr>
 <tr>
     <td>11/30</td>
@@ -32,6 +20,10 @@ position: 2
 <tr>
     <td>12/7</td>
     <td>SEC Championship</td>
+</tr>
+<tr>
+    <td>12/21</td>
+    <td>LSU Men's Basketball at USC (Staples Center)</td>
 </tr>
 <tr>
     <td>1/27</td>
