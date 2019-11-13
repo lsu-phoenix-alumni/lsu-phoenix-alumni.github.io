@@ -5,3 +5,4 @@ position: 3
 layout: event
 ---
 
+Staples Center, Los Angeles, CA
