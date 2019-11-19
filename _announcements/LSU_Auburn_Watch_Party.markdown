@@ -2,7 +2,7 @@
 title: Will the Real Tigers Please Stand Up!
 date: 2019-10-22 08:30:00 -07:00
 published: false
-position: 5
+position: 9
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AuburnWatchParty.png)  
