@@ -10,4 +10,6 @@ venue:
 layout: event
 ---
 
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/USCLogo.jpg "USC Trojans")  
+<br>
 The Fighting Tigers Men's basketball team visits the USC Trojans at the Staples Center in Los Angeles.
