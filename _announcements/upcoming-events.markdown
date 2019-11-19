@@ -1,7 +1,7 @@
 ---
 title: Upcoming Events
 date: 2019-10-01 22:40:00 -07:00
-position: 5
+position: 4
 ---
 
 <table>
