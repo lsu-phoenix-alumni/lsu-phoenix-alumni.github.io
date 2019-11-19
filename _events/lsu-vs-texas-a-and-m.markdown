@@ -1,6 +1,6 @@
 ---
 title: LSU Football vs. Texas A&M
-date: 2019-11-30 00:00:00 -07:00
+date: 2019-11-30 17:00:00 -07:00
 tags:
 - football
 position: 2
@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for the Fighting Tigers' season finale against the Texas A&M Aggies in Tiger Stadium.  
 <br>
-Game time is TBA.  
+Game time is 5:00pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.
 
