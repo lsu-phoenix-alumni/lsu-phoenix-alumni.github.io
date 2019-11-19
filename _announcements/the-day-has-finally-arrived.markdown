@@ -2,7 +2,7 @@
 title: The Day Has Finally Arrived
 date: 2019-11-04 15:00:00 -07:00
 published: false
-position: 13
+position: 12
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/AlabamaWatchParty.png)  

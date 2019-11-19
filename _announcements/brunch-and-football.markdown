@@ -2,7 +2,7 @@
 title: Brunch and LSU Football
 date: 2019-10-01 22:45:00 -07:00
 published: false
-position: 10
+position: 9
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/UtahStateWatchParty.png)  

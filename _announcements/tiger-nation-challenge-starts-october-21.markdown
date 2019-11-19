@@ -2,7 +2,7 @@
 title: Tiger Nation Challenge starts October 21!
 date: 2019-10-21 08:18:00 -07:00
 published: false
-position: 9
+position: 8
 layout: default
 ---
 
