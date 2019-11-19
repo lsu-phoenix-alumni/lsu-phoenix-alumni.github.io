@@ -5,21 +5,18 @@ position: 3
 ---
 
 <table>
-<tr>
-    <td>11/16</td>
-    <td>LSU at Ole Miss Game Watch (5pm)</td>
-</tr>
+
 <tr>
     <td>11/23</td>
     <td>LSU vs Arkansas Game Watch (5pm)</td>
 </tr>
 <tr>
     <td>11/30</td>
-    <td>LSU vs Texas A&M Game Watch</td>
+    <td>LSU vs Texas A&M Game Watch (5pm)</td>
 </tr>
 <tr>
     <td>12/7</td>
-    <td>SEC Championship</td>
+    <td>SEC Championship (2pm)</td>
 </tr>
 <tr>
     <td>12/21</td>
