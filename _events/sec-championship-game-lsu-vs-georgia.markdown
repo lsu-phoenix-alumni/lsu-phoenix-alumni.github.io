@@ -1,6 +1,6 @@
 ---
 title: 'SEC Championship Game: LSU vs. Georgia'
-date: 2019-12-02 16:07:00 -07:00
+date: 2019-12-07 14:00:00 -07:00
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-UGA.jpg "SEC Championship")  
