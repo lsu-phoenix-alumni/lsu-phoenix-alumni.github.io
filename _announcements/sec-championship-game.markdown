@@ -1,6 +1,7 @@
 ---
 title: SEC Championship Game
 date: 2019-12-02 15:49:00 -07:00
+position: 0
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-UGA.jpg)  
