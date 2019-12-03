@@ -10,10 +10,6 @@ position: 3
     <td>SEC Championship (2pm)</td>
 </tr>
 <tr>
-    <td>12/7</td>
-    <td>SEC Championship (2pm)</td>
-</tr>
-<tr>
     <td>12/21</td>
     <td>LSU Men's Basketball at USC (Staples Center)</td>
 </tr>
