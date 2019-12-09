@@ -18,7 +18,7 @@ position: 1
     <td>NCAA Football National Championship Game</td>
 </tr>
 <tr>
-    <td>January 24-25</td>
+    <td>1/24-25</td>
     <td>LSU Indoor Track & Field MLK Collegiate, Albuquerque</td>
 </tr>
 <tr>
