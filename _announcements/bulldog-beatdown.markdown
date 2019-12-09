@@ -2,7 +2,7 @@
 title: Bulldog Beatdown
 date: 2019-10-15 06:58:00 -07:00
 published: false
-position: 11
+position: 12
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/MissStateWatchParty.png)  
