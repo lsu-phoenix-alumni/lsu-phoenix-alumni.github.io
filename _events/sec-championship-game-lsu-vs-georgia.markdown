@@ -2,6 +2,11 @@
 title: 'SEC Championship Game: LSU vs. Georgia'
 date: 2019-12-07 14:00:00 -07:00
 published: false
+venue:
+  name: R. T. O'Sullivan's Scottsdale
+  address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
+  phone: 
+  locationUrl: 
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-UGA.jpg "SEC Championship")  
