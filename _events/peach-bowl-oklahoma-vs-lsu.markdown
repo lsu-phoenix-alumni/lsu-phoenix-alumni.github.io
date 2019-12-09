@@ -15,7 +15,7 @@ layout: event
 <br>
 Join the LSU Phoenix Alumni group at **[R.T. O'Sullivan's][1] in Scottsdale** for the Peach Bowl National Semi-final game between our Fighting Tigers and the Oklahoma Sooners in Atlanta!!  
 <br>
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/OU.png "Oklahoma Sooners") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/OU-helmet.jpg "Oklahoma Sooners") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-helmet.jpg "LSU Fighting Tigers")  
 Game time is 2:00pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.
