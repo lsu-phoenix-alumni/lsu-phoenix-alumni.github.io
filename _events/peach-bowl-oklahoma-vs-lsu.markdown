@@ -7,6 +7,11 @@ tags:
 - watch party
 - bowl game
 position: 0
+venue:
+  name: R. T. O'Sullivan's Scottsdale (Thomas @ Hayden)
+  address: Thomas Rd, Scottsdale, AZ
+  phone: 480-307-6533
+  locationUrl: 
 layout: event
 ---
 
