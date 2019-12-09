@@ -3,7 +3,7 @@ title: Take Me To The River - New Orleans - LIVE! Celebrating the Music of the C
   City
 date: 2019-10-09 19:30:00 -07:00
 published: false
-position: 7
+position: 6
 venue:
   name: Chandler Center for the Arts
   address: 250 N Arizona Ave, Chandler, AZ 85225

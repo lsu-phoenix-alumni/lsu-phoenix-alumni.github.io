@@ -4,7 +4,7 @@ date: 2019-10-12 17:00:00 -07:00
 published: false
 tags:
 - football
-position: 8
+position: 7
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
