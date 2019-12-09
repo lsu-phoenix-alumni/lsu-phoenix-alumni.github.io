@@ -6,12 +6,16 @@ position: 2
 
 <table>
 <tr>
-    <td>12/7</td>
-    <td>SEC Championship (2pm)</td>
-</tr>
-<tr>
     <td>12/21</td>
     <td>LSU Men's Basketball at USC (Staples Center)</td>
+</tr>
+<tr>
+    <td>12/28</td>
+    <td>Peach Bowl: Oklahoma vs. LSU</td>
+</tr>
+<tr>
+    <td>1/13</td>
+    <td>NCAA Football National Championship Game</td>
 </tr>
 <tr>
     <td>1/27</td>
