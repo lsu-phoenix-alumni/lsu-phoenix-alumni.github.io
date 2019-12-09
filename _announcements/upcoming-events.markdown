@@ -18,6 +18,10 @@ position: 2
     <td>NCAA Football National Championship Game</td>
 </tr>
 <tr>
+    <td>January 24-25</td>
+    <td>LSU Indoor Track & Field MLK Collegiate, Albuquerque</td>
+</tr>
+<tr>
     <td>1/27</td>
     <td>LSU Men's Golf at Westlake Village, CA</td>
 </tr>
