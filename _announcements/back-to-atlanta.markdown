@@ -4,7 +4,7 @@ date: 2019-12-09 10:01:00 -07:00
 position: 0
 ---
 
-![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.jpg)  
+![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.png)  
 <br>
 LSU has earned the top spot in the **College Football Playoffs** and will be back in Atlanta for the Peach Bowl on December 28th.  
 <br>
