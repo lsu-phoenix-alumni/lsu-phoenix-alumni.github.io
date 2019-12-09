@@ -1,12 +1,12 @@
 ---
 title: 'Peach Bowl (CFP): Oklahoma vs. LSU'
 date: 2019-12-28 14:00:00 -07:00
+tags:
+- CFP
+- football
+- watch party
+- bowl game
 position: 0
-venue:
-- name: R. T. O'Sullivan's Scottsdale (Thomas @ Hayden)
-  address: '7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251 '
-  phone: "(480) 307-6533"
-  locationUrl: https://goo.gl/maps/3MjPdBhDfGWxt53HA
 layout: event
 ---
 
