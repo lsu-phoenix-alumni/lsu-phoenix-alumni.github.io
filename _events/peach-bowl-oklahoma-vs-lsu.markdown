@@ -7,7 +7,6 @@ venue:
   address: '7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251 '
   phone: "(480) 307-6533"
   locationUrl: https://goo.gl/maps/3MjPdBhDfGWxt53HA
-Field name: 
 layout: event
 ---
 
