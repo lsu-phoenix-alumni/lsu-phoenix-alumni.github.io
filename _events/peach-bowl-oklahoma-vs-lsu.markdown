@@ -10,7 +10,7 @@ Field name:
 layout: event
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-UGA.jpg "SEC Championship")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.png "SEC Championship")  
 <br>
 Join the LSU Phoenix Alumni group at **[R.T. O'Sullivan's][1] in Scottsdale** for the Peach Bowl National Semi-final game between our Fighting Tigers and the Oklahoma Sooners in Atlanta!!  
 <br>
