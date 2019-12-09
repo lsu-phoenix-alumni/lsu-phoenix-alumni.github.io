@@ -2,7 +2,10 @@
 title: 'Peach Bowl: Oklahoma vs. LSU'
 date: 2019-12-28 14:00:00 -07:00
 venue:
-- locationURL
+- name: R. T. O'Sullivan's Scottsdale
+  address: Thomas at Hayden, Scottsdale
+  phone: "(480) 307-6533"
+  locationUrl: https://goo.gl/maps/3MjPdBhDfGWxt53HA
 Field name: 
 layout: event
 ---
