@@ -2,7 +2,7 @@
 title: Back to Atlanta!
 date: 2019-12-09 10:01:00 -07:00
 position: 0
-layout: event
+layout: default
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.png)  
