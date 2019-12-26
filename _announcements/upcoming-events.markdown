@@ -10,16 +10,17 @@ position: 1
     <td>Peach Bowl: Oklahoma vs. LSU</td>
 </tr>
 <tr>
-    <td>1/13</td>
-    <td>NCAA Football National Championship Game</td>
-</tr>
-<tr>
     <td>1/24-25</td>
     <td>LSU Indoor Track & Field MLK Collegiate, Albuquerque</td>
 </tr>
 <tr>
     <td>1/27</td>
     <td>LSU Men's Golf at Westlake Village, CA</td>
+</tr>
+
+<tr>
+    <td>2/15</td>
+    <td>Cajun Fest at Chandler Park</td>
 </tr>
 
 <tr>
