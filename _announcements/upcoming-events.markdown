@@ -6,10 +6,6 @@ position: 1
 
 <table>
 <tr>
-    <td>12/21</td>
-    <td>LSU Men's Basketball at USC (Staples Center)</td>
-</tr>
-<tr>
     <td>12/28</td>
     <td>Peach Bowl: Oklahoma vs. LSU</td>
 </tr>
