@@ -1,5 +1,5 @@
 ---
-title: 'National Championship Game: Clemson vs. LSU'
+title: 'Football National Championship: Clemson vs. LSU'
 date: 2020-01-13 18:00:00 -07:00
 venue:
   Key 1: 
@@ -8,11 +8,11 @@ venue:
 layout: event
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Natty.jpg "College Football Playoff National Championship")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Natty.png "CFP National Championship")  
 <br>
 Join the LSU Phoenix Alumni group at **[R.T. O'Sullivan's][1] in Scottsdale** as our **LSU Tigers** take on the defending champion Clemson Tigers in the College Football Playoff National Championship ... **it doesn't get any better than this!!**  
 <br>
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Clemson.jpg "Clemson Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU-helmet.jpg "LSU Fighting Tigers")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Clemson.jpg "Clemson Tigers") ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSU.jpg "LSU Fighting Tigers")  
 Game time is 6:00pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.
