@@ -6,8 +6,8 @@ position: 1
 
 <table>
 <tr>
-    <td>12/28</td>
-    <td>Peach Bowl: Oklahoma vs. LSU</td>
+    <td>1/13/td>
+    <td>National Championship Watch Party, RT O'Sullivans Scottsdale</td>
 </tr>
 <tr>
     <td>1/24-25</td>
@@ -38,6 +38,10 @@ position: 1
     <td>NCAA Indoor Track & Field Championship in Albuquerque</td>
 </tr>
 
+<tr>
+    <td>3/15</td>
+    <td>Louisiana Monroe Beach Volleyball, UA Tucson</td>
+</tr>
 <tr>
     <td>3/20-21</td>
     <td>LSU Outdoor Track & Field at Baldy Castillo Invitational at ASU</td>
