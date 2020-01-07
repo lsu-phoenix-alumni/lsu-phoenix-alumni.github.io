@@ -2,8 +2,9 @@
 title: 'CFP National Championship: Clemson vs. LSU'
 date: 2020-01-13 18:00:00 -07:00
 venue:
-  Key 1: 
-  Key: 
+  name: R. T. O'Sullivan's Scottsdale (Thomas @ Hayden)
+  address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
+  phone: " 480-307-6533"
   locationUrl: 
 layout: event
 ---
