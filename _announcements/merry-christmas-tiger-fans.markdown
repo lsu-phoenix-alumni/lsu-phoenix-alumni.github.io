@@ -1,6 +1,7 @@
 ---
 title: Merry Christmas, Tiger Fans!
 date: 2019-12-26 07:21:00 -07:00
+published: false
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TigerStadiumNight.jpg)  
