@@ -1,6 +1,7 @@
 ---
 title: 'Peach Bowl (CFP): Oklahoma vs. LSU'
 date: 2019-12-28 14:00:00 -07:00
+published: false
 tags:
 - CFP
 - football
