@@ -1,7 +1,6 @@
 ---
 title: 'Peach Bowl (CFP): Oklahoma vs. LSU'
 date: 2019-12-28 14:00:00 -07:00
-published: false
 tags:
 - CFP
 - football
@@ -16,7 +15,7 @@ venue:
 layout: event
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.png "SEC Championship")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/PeachBowl.png "CFP Semi-Final")  
 <br>
 Join the LSU Phoenix Alumni group at **[R.T. O'Sullivan's][1] in Scottsdale** for the Peach Bowl National Semi-final game between our Fighting Tigers and the Oklahoma Sooners in Atlanta!!  
 <br>
