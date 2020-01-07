@@ -1,5 +1,5 @@
 ---
-title: 'Football National Championship: Clemson vs. LSU'
+title: 'CFP National Championship: Clemson vs. LSU'
 date: 2020-01-13 18:00:00 -07:00
 venue:
   Key 1: 
