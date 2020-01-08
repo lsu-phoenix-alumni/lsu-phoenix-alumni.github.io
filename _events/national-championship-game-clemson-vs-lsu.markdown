@@ -13,7 +13,7 @@ layout: event
 <br>
 Join the LSU Phoenix Alumni group at **[R.T. O'Sullivan's][1] in Scottsdale** as our **LSU Tigers** take on the defending champion Clemson Tigers in the College Football Playoff National Championship. **WE COMIN'!!!**  
 <br>
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/clemson.gif "Clemson Tigers") ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSULogo.gif "LSU Fighting Tigers")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/clemson.gif "Clemson Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSULogo.gif "LSU Fighting Tigers")  
 Game time is 6:00pm MST.  
 <br>
 Check [LSUSports.net][2] for schedule updates.
