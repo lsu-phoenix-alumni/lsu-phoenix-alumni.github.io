@@ -6,10 +6,6 @@ position: 1
 
 <table>
 <tr>
-    <td>1/13</td>
-    <td>National Championship Watch Party, RT O'Sullivans Scottsdale</td>
-</tr>
-<tr>
     <td>1/24-25</td>
     <td>LSU Indoor Track & Field MLK Collegiate, Albuquerque</td>
 </tr>
