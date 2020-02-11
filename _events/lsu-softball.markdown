@@ -1,7 +1,7 @@
 ---
 title: LSU Softball at Judi Garman Classic
 date: 2020-02-27 11:30:00 -07:00
-position: 1
+position: 2
 venue:
   name: Anderson Family Field
   address: Fullerton, CA
