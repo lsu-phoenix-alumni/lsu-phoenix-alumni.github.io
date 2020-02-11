@@ -7,7 +7,7 @@ tags:
 - football
 - watch party
 - bowl game
-position: 12
+position: 11
 venue:
   name: R. T. O'Sullivan's Scottsdale (Thomas @ Hayden)
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
