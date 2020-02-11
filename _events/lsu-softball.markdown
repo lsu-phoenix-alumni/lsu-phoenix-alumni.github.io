@@ -1,6 +1,6 @@
 ---
 title: LSU Softball
-date: 2020-02-11 11:30:00 -07:00
+date: 2020-02-27 11:30:00 -07:00
 venue:
   name: Anderson Family Field
   address: Fullerton, CA
