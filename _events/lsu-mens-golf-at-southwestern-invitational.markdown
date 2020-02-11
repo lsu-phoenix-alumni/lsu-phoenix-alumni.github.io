@@ -1,6 +1,7 @@
 ---
 title: LSU Men's Golf at Southwestern Invitational
 date: 2020-01-27 00:00:00 -07:00
+published: false
 position: 0
 venue:
   name: North Ranch Country Club
