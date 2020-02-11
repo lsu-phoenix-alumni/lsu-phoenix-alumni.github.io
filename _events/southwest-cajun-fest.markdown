@@ -1,6 +1,7 @@
 ---
 title: Southwest Cajun Fest
 date: 2020-02-11 14:16:00 -07:00
+position: 0
 venue:
   name: Dr. A. J. Chandler Park
   address: Chandler, AZ 85225
