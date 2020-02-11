@@ -1,6 +1,11 @@
 ---
 title: Southwest Cajun Fest
 date: 2020-02-11 14:16:00 -07:00
+venue:
+  name: Dr. A. J. Chandler Park
+  address: Chandler, AZ 85225
+  locationUrl: https://goo.gl/maps/KN8f2ZsrgLgVkjab9
+layout: event
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/SWCajunFest.jpg "Cajun Fest")  
