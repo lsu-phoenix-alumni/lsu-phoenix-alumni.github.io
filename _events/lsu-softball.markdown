@@ -18,9 +18,9 @@ LSU Softball will participate in the Judy Garmen Classic in Fullerton, CA this F
 
 <table>
   <tr>
-    <th>Date</td>
-    <th>Time</td>
-    <th>Opponent</td>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Opponent</th>
   </tr>
   <tr>
     <td>FEB 27 (THU)</td>
