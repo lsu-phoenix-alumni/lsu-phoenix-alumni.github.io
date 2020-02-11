@@ -19,7 +19,7 @@ vs.
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/CSU-Ram.png "Colorado State")
 <br>
 LSU Softball will participate in the Judy Garmen Classic in Fullerton, CA this February. Below are the scheduled games for the Lady Tigers at the event (all games at Anderson Family Field, Fullerton, CA):
-
+<br>
 <table>
   <tr>
     <th>Date</th>
