@@ -11,7 +11,7 @@ layout: event
 
 NCAA Indoor Track & Field Championship in Albuquerque.  For more information on the events, please follow the links below:  
 <br>
-[Link to Men's event][1]
+[Link to Men's event][1]  
 [Link to Women's event][2]
 
 [1]: https://www.ncaa.com/sports/trackfield-indoor-men/d1
