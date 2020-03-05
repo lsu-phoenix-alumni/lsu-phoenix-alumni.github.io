@@ -1,7 +1,7 @@
 ---
 title: LSU Outdoor Track & Field at Baldy Castillo Invitational (ASU)
 date: 2020-03-20 00:00:00 -07:00
-position: 4
+position: 1
 venue:
   name: Sun Angel Stadium
   address: 400 S Rural Rd, Tempe, AZ 85281
