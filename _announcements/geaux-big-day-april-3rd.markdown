@@ -1,7 +1,7 @@
 ---
 title: Geaux Big Day - April 3rd
 date: 2020-02-11 13:56:00 -07:00
-position: 0
+position: 1
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/TovreaCastle.jpg)  
