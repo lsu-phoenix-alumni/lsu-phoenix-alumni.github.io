@@ -1,6 +1,7 @@
 ---
 title: Crawfish Boils Across the Nation
 date: 2020-02-19 10:17:00 -07:00
+position: 2
 ---
 
 ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/crawfishboil.jpg)  
