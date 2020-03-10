@@ -9,4 +9,4 @@ Tickets for the LSU Alumni Crawfish Boil are now on sale! Follow this link to ge
  
 [**LSU Crawfish Boil Tickets**][1] 
 
-[1]: https://tovreacastletours.com/
+[1]: https://www.eventbrite.com/e/lsu-phoenix-crawfish-boil-tickets-98447823089
