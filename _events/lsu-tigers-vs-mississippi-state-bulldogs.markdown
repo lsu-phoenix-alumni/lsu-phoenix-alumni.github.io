@@ -1,13 +1,19 @@
 ---
 title: LSU Tigers vs. Mississippi State Bulldogs
 date: 2020-09-11 15:42:00 -07:00
+Field name:
+  name: R.T. O'Sullivan's
+  address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
+  phone: "(480) 307-6533"
+  locationUrl: https://goo.gl/maps/qsR5BqCiWb7ZZHML8
+layout: event
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") vs ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/MSUBulldogs.png "Mississippi State Bulldogs")  
 <br>
-The Defending National Champion LSU Fighting Tigers take on the Mississippi State Bulldogs on Saturday, Sept. 26! 
+The Defending National Champion LSU Fighting Tigers take on the Mississippi State Bulldogs, coached by Mike Leach, on Saturday, Sept. 26! 
 <br>
-Game time is 12:30pm MST.  Phoenix Alumni Group plans for the game will be forthcoming.
+Game time is 12:30pm MST. Join us on the patio at **[RT O'Sullivan's][1]** in Scottsdale. Brunch is available until 3pm!
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
