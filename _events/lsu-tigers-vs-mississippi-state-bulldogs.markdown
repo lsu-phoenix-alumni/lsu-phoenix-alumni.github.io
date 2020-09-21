@@ -11,9 +11,7 @@ layout: event
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") vs ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/MSUBulldogs.png "Mississippi State Bulldogs")  
 <br>
-The Defending National Champion LSU Fighting Tigers take on the Mississippi State Bulldogs, coached by Mike Leach, on Saturday, Sept. 26! 
-<br>
-Game time is 12:30pm MST. Join us on the patio at **[RT O'Sullivan's][1]** in Scottsdale (see our "Guidelines for Game Watch Events" in the Announcements section.) Brunch is available until 3pm!
+The Defending National Champion LSU Fighting Tigers take on the Mississippi State Bulldogs, coached by Mike Leach, on Saturday, Sept. 26! Game time is 12:30pm MST. Join us on the patio at **[RT O'Sullivan's][1]** in Scottsdale (see our "Guidelines for Game Watch Events" in the Announcements section.) Brunch is available until 3pm!  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
