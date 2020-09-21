@@ -1,6 +1,6 @@
 ---
 title: LSU Tigers vs. Mississippi State Bulldogs
-date: 2020-09-11 15:42:00 -07:00
+date: 2020-09-26 14:30:00 -07:00
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
