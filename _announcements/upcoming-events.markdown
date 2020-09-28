@@ -1,6 +1,6 @@
 ---
 title: Upcoming Events
-date: 2020-09-26 15:30:00 -07:00
+date: 2020-09-28 12:30:00 -07:00
 position: 4
 layout: default
 ---
