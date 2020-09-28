@@ -1,6 +1,7 @@
 ---
 title: LSU Football vs. Missouri
 date: 2020-10-10 18:00:00 -07:00
+position: 0
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Mizzou.png "Mizzou Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
