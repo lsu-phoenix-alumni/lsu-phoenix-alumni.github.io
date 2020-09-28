@@ -1,6 +1,6 @@
 ---
 title: LSU Football at Florida
-date: 2020-10-17 14:30:00 -07:00
+date: 2020-10-17 12:30:00 -07:00
 tags:
 - football
 position: 3
@@ -16,7 +16,7 @@ layout: event
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for the annual match-up between our Fighting Tigers and the Florida Gators!  
 <br>
-Game time is 2:30pm MST.  
+Game time is 12:30pm MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
