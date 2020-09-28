@@ -24,7 +24,7 @@ layout: default
 
   <tr>
     <td>10/24/2020</td>
-    <td>LSU Football vs. S. Carolina in Baton Rouge, LA</td>
+    <td>LSU Football vs. South Carolina in Baton Rouge, LA</td>
   </tr>
 
   <tr>
@@ -44,7 +44,7 @@ layout: default
 
   <tr>
     <td>11/28/2020</td>
-    <td>LSU Football at Texas A&M in College Station, TX</td>
+    <td>LSU Football at Texas A&M in Bryan-College Station, TX</td>
   </tr>
 
   <tr>
