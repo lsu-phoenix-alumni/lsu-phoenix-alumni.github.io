@@ -12,7 +12,7 @@ venue:
 layout: event
 ---
 
-# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/FloridaGators.png "Florida Gators") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
+# ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/FloridaGators.png "Florida Gators")  
 <br>
 The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for the annual match-up between our Fighting Tigers and the Florida Gators!  
 <br>
