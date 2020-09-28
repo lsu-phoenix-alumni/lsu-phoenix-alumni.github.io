@@ -11,7 +11,7 @@ layout: event
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers") at ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/VandyCommodores.png "Vanderbilt Commodores")  
 <br>
-The Defending Champion LSU Fighting Tigers take their show on the road to Nashville to face the Vanderbilt Commodores on Saturday, Oct. 3.  Game time is 4:30pm MST. Join us on the patio at **[RT O'Sullivan's][1]** in Scottsdale (see our "Guidelines for Game Watch Events" in the Announcements section.)  
+The LSU Fighting Tigers take their show on the road to Nashville to face the Vanderbilt Commodores on Saturday, Oct. 3.  Game time is 4:30pm MST. Join us on the patio at **[RT O'Sullivan's][1]** in Scottsdale (see our "Guidelines for Game Watch Events" in the Announcements section.)  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.   
 
