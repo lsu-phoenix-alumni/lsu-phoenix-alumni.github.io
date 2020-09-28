@@ -1,5 +1,5 @@
 ---
-title: LSU Football vs. Florida
+title: LSU Football at Florida
 date: 2020-10-17 14:30:00 -07:00
 tags:
 - football
