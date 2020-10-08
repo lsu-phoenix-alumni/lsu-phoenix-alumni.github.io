@@ -8,13 +8,8 @@ layout: default
 <table>
 
   <tr>
-    <td>10/3/2020</td>
-    <td>LSU Football at Vanderbilt in Nashville, TN</td>
-  </tr>
-
-  <tr>
     <td>10/10/2020</td>
-    <td>LSU Football vs. Missouri in Baton Rouge, LA</td>
+    <td>LSU Football at Missouri in Columbia, MO</td>
   </tr>
 
   <tr>
