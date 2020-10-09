@@ -1,14 +1,14 @@
 ---
 title: LSU Football at Missouri
-date: 2020-10-10 18:00:00 -07:00
+date: 2020-10-10 09:00:00 -07:00
 position: 2
 ---
 
 # ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/Mizzou.png "Mizzou Tigers") vs. ![alt text](https://lsu-phoenix-alumni.github.io/assets/img/LSUTigers.png "LSU Fighting Tigers")  
 <br>
-The LSU Phoenix Alumni group will meet at **[R.T. O'Sullivan's][1] in Scottsdale** for the game between our Fighting Tigers and the Tigers of Missouri.  
+The LSU Fighting Tigers will face the Missouri Tigers in Columbia, MO. The game was originally scheduled to be played in Baton Rouge, but Hurricane Delta has forced a change to the venue.  Due to the early start time, the Phoenix Alumni group will not be meeting at our usual gathering spot.  
 <br>
-Game time is 6:00pm MST.  
+Game time is 9:00am MST.  
 <br>
 Check **[LSUSports.net][2]** for schedule updates.  
 
