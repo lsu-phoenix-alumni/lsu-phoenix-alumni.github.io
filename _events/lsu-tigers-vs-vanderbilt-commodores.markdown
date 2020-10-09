@@ -1,6 +1,7 @@
 ---
 title: LSU Tigers vs. Vanderbilt Commodores
 date: 2020-10-03 16:30:00 -07:00
+published: false
 position: 1
 venue:
   name: R.T. O'Sullivan's
