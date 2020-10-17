@@ -1,6 +1,7 @@
 ---
 title: Guidelines for Game Watch Events
 date: 2020-09-21 12:17:00 -07:00
+position: 1
 ---
 
 Fans are invited to join LSU Alumni Phoenix at RT O'Sullivan's at Hayden and Thomas Roads in Scottsdale for every LSU game this season. Due to the current state of Arizona Coronavirus guidelines there are specific rules in place this season. Please respect these rules at they impact the security of RTO's liquor license. If you cannot follow the rules you will be asked to leave. These rules are fluid and may change week to week based on state guidelines.
