@@ -1,6 +1,7 @@
 ---
 title: LSU Football at Missouri
 date: 2020-10-10 09:00:00 -07:00
+published: false
 position: 2
 ---
 
