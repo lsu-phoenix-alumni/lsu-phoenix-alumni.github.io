@@ -7,17 +7,7 @@ layout: default
 
 <table>
 
-  <tr>
-    <td>10/10/2020</td>
-    <td>LSU Football at Missouri in Columbia, MO</td>
-  </tr>
-
-  <tr>
-    <td>10/17/2020</td>
-    <td>LSU Football at Florida in Gainesville, FL</td>
-  </tr>
-
-  <tr>
+   <tr>
     <td>10/24/2020</td>
     <td>LSU Football vs. South Carolina in Baton Rouge, LA</td>
   </tr>
@@ -45,6 +35,11 @@ layout: default
   <tr>
     <td>12/5/2020</td>
     <td>LSU Football vs. Ole Miss in Baton Rouge, LA</td>
+  </tr>
+
+  <tr>
+    <td>12/12/2020</td>
+    <td>LSU Football at Florida in Gainesville, FL</td>
   </tr>
 
 </table>
