@@ -7,21 +7,6 @@ layout: default
 
 <table>
 
-   <tr>
-    <td>10/24/2020</td>
-    <td>LSU Football vs. South Carolina in Baton Rouge, LA</td>
-  </tr>
-
-  <tr>
-    <td>10/31/2020</td>
-    <td>LSU Football at Auburn in Auburn, AL</td>
-  </tr>
-
-  <tr>
-    <td>11/14/2020</td>
-    <td>LSU Football vs. Alabama in Baton Rouge, LA</td>
-  </tr>
-
   <tr>
     <td>11/21/2020</td>
     <td>LSU Football at Arkansas in Fayetteville, AR</td>
