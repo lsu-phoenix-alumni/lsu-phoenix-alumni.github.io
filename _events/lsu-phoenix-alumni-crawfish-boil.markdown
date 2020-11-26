@@ -2,7 +2,7 @@
 title: LSU Phoenix Alumni Crawfish Boil
 date: 2020-04-04 11:00:00 -07:00
 published: false
-position: 9
+position: 12
 venue:
   name: Phx Beer Co
   address: 3002 E Washington St., Phoenix, AZ 85034
