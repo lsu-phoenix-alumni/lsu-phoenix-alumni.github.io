@@ -2,7 +2,7 @@
 title: LSU Tigers at Texas A&M Aggies
 date: 2020-11-28 17:00:00 -07:00
 published: false
-position: 2
+position: 3
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
