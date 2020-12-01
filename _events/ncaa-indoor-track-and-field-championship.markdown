@@ -2,7 +2,7 @@
 title: NCAA Indoor Track & Field Championship
 date: 2020-03-13 00:00:00 -07:00
 published: false
-position: 7
+position: 8
 venue:
   name: Albuquerque Convention Center
   address: 401 2nd St NW, Albuquerque, NM 87102

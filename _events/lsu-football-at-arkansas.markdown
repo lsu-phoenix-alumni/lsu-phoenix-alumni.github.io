@@ -2,7 +2,7 @@
 title: LSU Football at Arkansas
 date: 2020-11-21 10:00:00 -07:00
 published: false
-position: 6
+position: 7
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251

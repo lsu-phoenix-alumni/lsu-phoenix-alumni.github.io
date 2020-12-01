@@ -2,7 +2,7 @@
 title: LSU Tigers vs. Vanderbilt Commodores
 date: 2020-10-03 16:30:00 -07:00
 published: false
-position: 4
+position: 5
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
