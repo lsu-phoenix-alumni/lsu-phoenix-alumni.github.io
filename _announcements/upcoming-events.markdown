@@ -13,8 +13,8 @@ layout: default
   </tr>
 
   <tr>
-    <td>12/12/2020</td>
-    <td>LSU Football at Florida in Gainesville, FL</td>
+    <td>12/19/2020</td>
+    <td>LSU Football vs. Ole Miss in Baton Rouge, LA</td>
   </tr>
 
 </table>
