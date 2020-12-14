@@ -1,7 +1,7 @@
 ---
 title: Ole Miss Rebels vs. LSU Tigers
 date: 2020-12-12 13:30:00 -07:00
-position: 2
+position: 0
 venue:
   name: R.T. O'Sullivan's
   address: 7919 E Thomas Rd Suite 101, Scottsdale, AZ 85251
