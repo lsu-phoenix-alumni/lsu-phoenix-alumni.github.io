@@ -1,7 +1,6 @@
 ---
 title: Ole Miss Rebels vs. LSU Tigers
 date: 2020-12-12 13:30:00 -07:00
-published: false
 position: 2
 venue:
   name: R.T. O'Sullivan's
