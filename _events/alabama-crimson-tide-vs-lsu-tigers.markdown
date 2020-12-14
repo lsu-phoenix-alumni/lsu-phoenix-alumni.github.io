@@ -1,6 +1,7 @@
 ---
 title: Alabama Crimson Tide vs. LSU Tigers
 date: 2020-12-01 06:12:00 -07:00
+published: false
 position: 0
 Field name:
   name: R.T. O'Sullivan's
